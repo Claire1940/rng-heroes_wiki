@@ -28,6 +28,14 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // RNG Heroes 主题导航卡片图标
+  Ticket: LucideIcons.Ticket,
+  Trophy: LucideIcons.Trophy,
+  Dices: LucideIcons.Dices,
+  Coins: LucideIcons.Coins,
+  Map: LucideIcons.Map,
+  Swords: LucideIcons.Swords,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,

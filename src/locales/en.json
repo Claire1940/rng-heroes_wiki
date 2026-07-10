@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,696 +52,552 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "RNG Heroes Gameplay",
+    "description": "Roll rare heroes, build a powerful team, defeat monsters, and unlock new biomes and zones in this Roblox RNG hero collection simulator."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "RNG Heroes",
+    "titleHighlight": "Guides",
+    "subtitle": "Everything you need to roll heroes, defeat monsters, and unlock new areas in RNG Heroes",
     "cards": [
+      {
+        "icon": "Ticket",
+        "title": "Codes",
+        "description": "Active codes for free Gold and a hero"
+      },
       {
         "icon": "BookOpen",
         "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "description": "Roll, equip, farm, and unlock areas"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Trophy",
+        "title": "Tier List",
+        "description": "Rank heroes by combat value and rarity"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Dices",
+        "title": "Rolling and Luck",
+        "description": "Roll odds, Luck upgrades, and strategy"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Coins",
+        "title": "Gold Farming",
+        "description": "Fastest ways to earn and spend Gold"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Map",
+        "title": "Zones and Biomes",
+        "description": "Unlock order, costs, and difficulty"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
+        "icon": "Swords",
+        "title": "Monsters and Combat",
+        "description": "Battle loop, rarities, and prep"
       },
       {
         "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Updates and Community",
+        "description": "New heroes, codes, and official links"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "rngHeroesCodes": {
+      "title": "RNG Heroes Codes",
+      "intro": "Codes provide useful early-game rewards that reduce the amount of rolling and enemy farming needed at the start. Enter every code with the exact capitalization shown and redeem it once per Roblox account.",
+      "noExpiredNote": "No expired codes yet. The release code list currently has no expired entries.",
+      "codes": [
+        {
+          "code": "Beginnings",
+          "status": "Active",
+          "reward": "10,000 Gold and 1 Assassin Hero",
+          "added": "Release",
+          "redeemSteps": [
+            "Launch RNG Heroes on Roblox.",
+            "Complete the opening tutorial.",
+            "Select the Shop button on the right side of the screen.",
+            "Scroll to the Codes section.",
+            "Enter Beginnings exactly as shown.",
+            "Press Redeem to collect the rewards."
+          ],
+          "troubleshooting": [
+            "Remove any spaces before or after the code.",
+            "Check the capital B in Beginnings.",
+            "A code cannot be redeemed twice on the same account.",
+            "Rejoin the game before retrying a newly released code."
+          ]
+        }
+      ]
+    },
+    "beginnerProgression": {
+      "title": "RNG Heroes Beginner Progression Guide",
+      "intro": "The main progression loop is to roll heroes, equip the strongest available lineup, defeat monsters, collect Gold and XP, purchase upgrades, and move into harder areas. Prioritize upgrades that help your current team clear enemies without slowing down your hero rolls.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Complete the Tutorial",
+          "description": "Finish every tutorial prompt to learn rolling and combat. Completing the tutorial also unlocks the Shop menu used to redeem codes.",
+          "priority": "Required"
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Claim the Beginnings Code",
+          "description": "Open the Shop, scroll to the Codes section, and redeem Beginnings for 10,000 Gold and an Assassin Hero. Equip the Assassin immediately for a faster early start.",
+          "priority": "Do first"
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Roll and Equip Heroes",
+          "description": "The Warrior is a common 1-in-2 roll and works as a basic starter. Keep rolling and replace common heroes whenever a new hero provides higher displayed combat power.",
+          "priority": "Core loop"
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "title": "Farm the First Area",
+          "description": "Defeat the available monsters to collect Gold and XP drops. Stay in the current area until your equipped heroes can defeat its enemies quickly and consistently.",
+          "priority": "Early farming"
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "title": "Buy Useful Upgrades",
+          "description": "Spend Gold on Luck, Gold Drop, XP Drop, and Combat Damage. Luck improves hero progression, while the other upgrades increase farming speed and make stronger areas easier to clear.",
+          "priority": "Power growth"
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "title": "Unlock New Areas",
+          "description": "Continue the cycle of rolling, equipping stronger heroes, defeating monsters, and buying upgrades. Enter each new biome after your team can comfortably clear the previous area's enemies.",
+          "priority": "Long-term progression"
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "title": "Claim the Group Bonus",
+          "description": "Like the experience and join the Heroplay Studios Roblox group to receive a permanent Gold and Luck bonus that speeds up every farming and rolling session.",
+          "priority": "Permanent bonus"
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
+    "tierList": {
+      "title": "RNG Heroes Tier List",
+      "intro": "Equip heroes that provide the highest available damage and replace common starter rolls as stronger characters appear. The free Assassin is the best immediate release reward, while the Warrior mainly serves as an introductory roll.",
+      "tiers": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "tier": "S",
+          "label": "Best Early-Game Hero",
+          "heroes": [
+            {
+              "name": "Assassin",
+              "obtainMethod": "Redeem the Beginnings code",
+              "rarity": "Code Hero",
+              "strengths": [
+                "Obtained without repeated rolling",
+                "Provides a major head start over the basic Warrior",
+                "Useful for clearing early enemies and earning upgrade Gold"
+              ],
+              "recommendedUse": "Equip immediately after completing the tutorial and keep it active until a stronger rolled hero shows higher combat power."
+            }
+          ]
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "tier": "A",
+          "label": "High-Rarity Rolled Heroes",
+          "heroes": [
+            {
+              "name": "Higher-Rarity Rolls",
+              "obtainMethod": "Roll heroes using the main rolling system",
+              "rarity": "Varies by roll",
+              "strengths": [
+                "Higher damage potential than common starter heroes",
+                "Better suited to later biomes and stronger monsters",
+                "Main source of long-term team upgrades"
+              ],
+              "recommendedUse": "Keep any roll that clearly increases the displayed power of the equipped team."
+            }
+          ]
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "tier": "B",
+          "label": "Temporary Progression Heroes",
+          "heroes": [
+            {
+              "name": "Mid-Rarity Rolls",
+              "obtainMethod": "Regular hero rolling",
+              "rarity": "Between common and top rolls",
+              "strengths": [
+                "Reliable replacements for duplicate Warriors",
+                "Useful while saving Gold for Luck upgrades",
+                "Can fill open team positions during area progression"
+              ],
+              "recommendedUse": "Use as temporary upgrades and replace them when a stronger rarity or higher-damage hero appears."
+            }
+          ]
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "tier": "C",
+          "label": "Starter Hero",
+          "heroes": [
+            {
+              "name": "Warrior",
+              "obtainMethod": "Common beginner roll",
+              "rarity": "1 in 2",
+              "strengths": [
+                "Easy to obtain",
+                "Suitable for learning the tutorial combat loop",
+                "Provides an immediate hero before better rolls are available"
+              ],
+              "recommendedUse": "Use at the beginning, then replace duplicate Warriors with the Assassin or stronger rolled heroes."
+            }
+          ]
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
+    "rollingLuck": {
+      "title": "RNG Heroes Rolling and Luck Guide",
+      "intro": "Luck supports better hero progression, but spending every piece of Gold on it can leave the team too weak to farm efficiently. Balance Luck with Gold Drop, XP Drop, and Combat Damage so that each new area remains fast to clear.",
+      "rows": [
         {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "source": "Base Hero Roll",
+          "cost": "Uses the game's rolling system",
+          "effect": "Produces a random hero based on the available rarity odds.",
+          "knownValue": "Warrior has a 1-in-2 roll rate.",
+          "priority": "High",
+          "recommendedTiming": "Roll whenever the equipped team still contains weak starter heroes or duplicate Warriors."
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
+          "source": "Luck Upgrade",
+          "cost": "Gold",
+          "effect": "Improves progression through the hero rarity system and helps players target stronger rolls.",
+          "knownValue": "Upgradeable with Gold",
+          "priority": "High",
+          "recommendedTiming": "Buy Luck while the current team can still clear enemies quickly. Pause Luck spending when combat begins to slow down."
         },
         {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
+          "source": "Combat Damage Upgrade",
+          "cost": "Gold",
+          "effect": "Raises combat performance and reduces the time needed to defeat monsters.",
+          "knownValue": "Upgradeable with Gold",
+          "priority": "High",
+          "recommendedTiming": "Purchase when enemies take too long to defeat or before moving into a harder area."
         },
         {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
+          "source": "Gold Drop Upgrade",
+          "cost": "Gold",
+          "effect": "Increases the Gold gained from fighting enemies, providing more currency for future upgrades.",
+          "knownValue": "Upgradeable with Gold",
+          "priority": "Medium",
+          "recommendedTiming": "Buy after establishing enough damage to farm continuously without long battles."
         },
         {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
+          "source": "XP Drop Upgrade",
+          "cost": "Gold",
+          "effect": "Increases XP progression earned from defeated enemies.",
+          "knownValue": "Upgradeable with Gold",
+          "priority": "Medium",
+          "recommendedTiming": "Invest when level progression becomes slower than area and hero progression."
         },
         {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
+          "source": "Heroplay Studios Group Bonus",
+          "cost": "Like the game and join the Roblox group",
+          "effect": "Provides a permanent farming and rolling bonus.",
+          "knownValue": "+10% Gold and +1 Luck",
           "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
+          "recommendedTiming": "Claim before beginning a long farming or rolling session."
         },
         {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
+          "source": "Beginnings Code",
+          "cost": "Free after the tutorial",
+          "effect": "Provides enough starting Gold for upgrades and awards an Assassin Hero without relying on a rare roll.",
+          "knownValue": "10,000 Gold and 1 Assassin Hero",
+          "priority": "Essential",
+          "recommendedTiming": "Redeem immediately after completing the tutorial."
+        }
+      ]
+    },
+    "goldFarming": {
+      "title": "RNG Heroes Gold Farming and Upgrades Guide",
+      "intro": "Gold drives most of the early progression in RNG Heroes. Earn it from monster battles, claim the release code, activate the community bonus, and reinvest it into Luck, additional hero slots, larger heroes, and access to new areas.",
+      "rows": [
+        {
+          "stage": "Free Start",
+          "methodOrUpgrade": "Redeem the Beginnings code",
+          "requirement": "Finish the tutorial and open the Shop",
+          "rewardOrEffect": "10,000 Gold and 1 Assassin hero",
+          "priority": "Highest",
+          "recommendedUse": "Equip the Assassin immediately and reserve the Gold for useful team upgrades and early area unlocks."
         },
         {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
+          "stage": "Permanent Bonus",
+          "methodOrUpgrade": "Like the game and join Heroplay Studios",
+          "requirement": "Join the official Roblox community",
+          "rewardOrEffect": "+10% Gold and +1 Luck",
+          "priority": "Highest",
+          "recommendedUse": "Activate this before starting a long farming session because the bonus improves both Gold income and hero rolls."
         },
         {
-          "name": "Hookshot",
+          "stage": "Core Farming",
+          "methodOrUpgrade": "Defeat monsters continuously",
+          "requirement": "Equip an active hero team",
+          "rewardOrEffect": "Monsters provide Gold and XP",
+          "priority": "Highest",
+          "recommendedUse": "Farm enemies that your team defeats quickly instead of spending too long on a stronger target."
+        },
+        {
+          "stage": "Team Expansion",
+          "methodOrUpgrade": "Buy additional equip slots",
+          "requirement": "Spend Gold in the upgrade system",
+          "rewardOrEffect": "Allows more heroes to join the active combat team",
           "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "recommendedUse": "Prioritize a new slot when you already own a strong unequipped hero."
         },
         {
-          "name": "Glider Glove",
+          "stage": "Rolling Power",
+          "methodOrUpgrade": "Upgrade Luck",
+          "requirement": "Spend Gold on Luck upgrades",
+          "rewardOrEffect": "Improves the chance of rolling rarer and more powerful heroes",
           "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "recommendedUse": "Increase Luck before committing to a large number of hero rolls."
         },
         {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "stage": "World Progression",
+          "methodOrUpgrade": "Unlock the next area",
+          "requirement": "Pay the Gold requirement displayed at the area entrance",
+          "rewardOrEffect": "Opens another biome or zone with new progression targets",
+          "priority": "Medium",
+          "recommendedUse": "Buy the next area after your current team can clear nearby monsters without long delays."
+        },
+        {
+          "stage": "Secondary Upgrade",
+          "methodOrUpgrade": "Increase hero size",
+          "requirement": "Spend Gold on the hero-size upgrade",
+          "rewardOrEffect": "Makes collected heroes larger",
+          "priority": "Medium",
+          "recommendedUse": "Purchase after securing important Luck, team-slot, and area progression upgrades."
+        },
+        {
+          "stage": "Repeatable Route",
+          "methodOrUpgrade": "Farm, upgrade, roll, and advance",
+          "requirement": "Maintain a team that clears the current zone efficiently",
+          "rewardOrEffect": "Creates a repeatable cycle of higher Gold income and stronger hero rolls",
+          "priority": "Ongoing",
+          "recommendedUse": "Return to a faster area whenever progression slows, then upgrade the team before attempting the next zone again."
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
+    "zonesBiomes": {
+      "title": "RNG Heroes Zones and Biomes Guide",
+      "intro": "RNG Heroes uses a zone-based progression route. Each stage asks players to strengthen their active team, collect enough Gold for the next entrance, and decide whether advancing or continuing to farm the current area will produce faster progress.",
+      "zones": [
         {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
+          "stage": "1",
+          "name": "Tutorial and Starting Area",
+          "unlockRequirement": "Available when beginning the game",
+          "enemyDifficulty": "Starter",
+          "mainRewards": "Gold, XP, tutorial progress, and access to the Shop",
+          "objectives": [
+            "Complete the tutorial",
+            "Roll and equip the first heroes",
+            "Learn how monster battles produce Gold and XP",
+            "Unlock the Shop and redeem Beginnings"
+          ],
+          "advanceWhen": "The tutorial is complete, the Assassin reward is equipped, and the first enemies are being defeated quickly."
+        },
+        {
+          "stage": "2",
+          "name": "Early Unlocked Biomes",
+          "unlockRequirement": "Purchase access with Gold at the area entrance",
+          "enemyDifficulty": "Early progression",
+          "mainRewards": "Additional Gold and XP for upgrades, rolls, and later area gates",
+          "objectives": [
+            "Fill every available hero slot",
+            "Replace weaker heroes with stronger rolls",
+            "Buy early Luck and equip-slot upgrades",
+            "Maintain fast monster clear times"
+          ],
+          "advanceWhen": "The active team clears enemies consistently and the next area cost can be paid without using all upgrade funds."
+        },
+        {
+          "stage": "3",
+          "name": "Mid-Progression Zones",
+          "unlockRequirement": "Continue purchasing zone access while improving the active team",
+          "enemyDifficulty": "Moderate",
+          "mainRewards": "Higher progression income and access to more of the world",
+          "objectives": [
+            "Roll rarer heroes",
+            "Expand the active team",
+            "Balance Luck upgrades with area unlock costs",
+            "Return to an earlier zone when battles become too slow"
+          ],
+          "advanceWhen": "Current monsters fall at a reliable pace and the team has enough total strength to avoid stalled battles."
+        },
+        {
+          "stage": "4",
+          "name": "Later Biomes",
+          "unlockRequirement": "Accumulate Gold through repeated monster farming and zone progression",
+          "enemyDifficulty": "High",
+          "mainRewards": "Late-game progression, stronger combat targets, and access toward the final area",
+          "objectives": [
+            "Use the strongest available heroes",
+            "Keep all unlocked combat slots filled",
+            "Invest in Luck before extended rolling sessions",
+            "Farm the best zone that still provides quick defeats"
+          ],
+          "advanceWhen": "The team can handle stronger monsters without lengthy downtime between rewards."
+        },
+        {
+          "stage": "5",
+          "name": "Final Available Area",
+          "unlockRequirement": "Unlock the preceding areas and pay the final displayed entrance requirement",
+          "enemyDifficulty": "Highest available progression tier",
+          "mainRewards": "Completion of the current zone route and access to the strongest available encounters",
+          "objectives": [
+            "Reach the last area",
+            "Continue searching for extremely rare heroes",
+            "Optimize the active combat team",
+            "Prepare for future zones and updates"
+          ],
+          "advanceWhen": "The current world route is complete and the remaining goal is improving hero rarity, team strength, and farming speed."
+        }
+      ]
+    },
+    "monstersCombat": {
+      "title": "RNG Heroes Monsters and Combat Guide",
+      "intro": "Monsters are the main repeatable source of Gold and XP in RNG Heroes. Faster defeats produce faster progression, so the most effective strategy is to equip the strongest heroes available, unlock additional team slots, and avoid remaining in a zone where each battle takes too long.",
+      "panels": [
+        {
+          "title": "Core Monster Battle Loop",
+          "summary": "Defeat monsters to collect Gold and XP, then use those rewards to strengthen the team and unlock more areas.",
+          "details": [
+            "Roll heroes and equip the strongest available results.",
+            "Send the active team against monsters in the current zone.",
+            "Collect Gold and XP from completed fights.",
+            "Spend Gold on upgrades, additional slots, and area access.",
+            "Repeat the loop in progressively stronger biomes."
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
+          "title": "Active Hero Team",
+          "summary": "Only equipped heroes contribute to the active combat group.",
+          "details": [
+            "Keep every unlocked equip slot filled.",
+            "Replace weaker equipped heroes whenever a stronger roll is obtained.",
+            "Use additional equip-slot upgrades when strong heroes are waiting outside the active team.",
+            "Equip the Assassin from the Beginnings code during early progression."
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
+          "title": "Hero Rarity and Strength",
+          "summary": "Rarer heroes provide the power needed to defeat stronger monsters and move through later zones.",
+          "details": [
+            "Luck improves the chance of obtaining rare and powerful heroes.",
+            "The official gameplay loop is built around repeatedly rolling and collecting stronger heroes.",
+            "Extremely rare rolls can reach very large odds, including heroes displayed at one-in-a-trillion rarity.",
+            "Save Gold for Luck upgrades before performing extended rolling sessions."
           ]
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
+          "title": "Starter-Area Monsters",
+          "summary": "The first enemies introduce the Gold-and-XP combat loop and are suitable for a new team.",
+          "details": [
+            "Use these enemies while completing the tutorial and building the first full team.",
+            "Claim and equip the Assassin reward to improve early clear speed.",
+            "Remain here only while later-area enemies take substantially longer to defeat."
           ]
         },
         {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
+          "title": "Biome and Zone Monsters",
+          "summary": "Newly unlocked areas introduce stronger enemies that test the team's current progression.",
+          "details": [
+            "Enter a new biome after purchasing its access requirement.",
+            "Compare the new clear speed with the previous area.",
+            "Continue in the new zone when battles remain efficient.",
+            "Return to the earlier area for Gold if the new enemies slow progression too much."
+          ]
+        },
+        {
+          "title": "Late-Zone Encounters",
+          "summary": "Later areas require stronger rolls, more active heroes, and better permanent upgrades.",
+          "details": [
+            "Fill all available combat slots with the strongest heroes.",
+            "Improve Luck to increase access to rare heroes.",
+            "Use repeated Gold farming to fund the remaining zone gates.",
+            "Reach the final area only after the team can defeat preceding enemies reliably."
+          ]
+        },
+        {
+          "title": "Dragon Teaser",
+          "summary": "The official Roblox description includes a dragon icon followed by question marks.",
+          "details": [
+            "The teaser appears alongside the game's monster, biome, and zone description.",
+            "Continue progressing through later areas and follow official update announcements for related content."
+          ]
+        },
+        {
+          "title": "Combat Preparation Checklist",
+          "summary": "Complete these steps before committing Gold to the next area.",
+          "details": [
+            "Activate the +10% Gold and +1 Luck community bonus.",
+            "Equip the strongest hero in every available slot.",
+            "Use the Beginnings Assassin during early progression.",
+            "Purchase a useful team or Luck upgrade.",
+            "Confirm that current monsters are being defeated quickly.",
+            "Keep enough Gold for the next displayed area requirement."
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "updatesCommunity": {
+      "title": "RNG Heroes Updates and Community",
+      "intro": "Heroplay Studios publishes the main game information through the official Roblox experience and community. Players should follow both pages to catch new content announcements and activate the permanent group-related Gold and Luck bonus.",
+      "events": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "period": "Release",
+          "category": "Game Launch",
+          "headline": "RNG Heroes Opens Its First Progression Route",
+          "details": "The release introduces hero rolling, rare hero collection, monster battles, Gold and XP progression, and multiple unlockable biomes and zones.",
+          "playerAction": "Complete the tutorial, assemble an active team, and begin unlocking areas."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "period": "Release",
+          "category": "Free Code",
+          "headline": "Beginnings Code Added",
+          "details": "The Beginnings code grants 10,000 Gold and one Assassin hero after the tutorial unlocks the Shop.",
+          "playerAction": "Open the Shop, scroll to the code field, enter Beginnings, and equip the Assassin."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "period": "Current",
+          "category": "Community Bonus",
+          "headline": "+10% Gold and +1 Luck Bonus",
+          "details": "Liking the game and joining the Heroplay Studios Roblox community activates an additional Gold and Luck benefit.",
+          "playerAction": "Join the official group before beginning a long farming or rolling session."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "period": "Current",
+          "category": "World Progression",
+          "headline": "Players Can Reach the Final Available Area",
+          "details": "The current progression route supports repeated hero rolling and area unlocking until the last available zone is reached.",
+          "playerAction": "Strengthen the active team and purchase each area entrance in sequence."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "period": "Ongoing",
+          "category": "Content Updates",
+          "headline": "New Heroes and Zones",
+          "details": "Future progression additions can expand the hero pool, biome route, monsters, and late-game encounters.",
+          "playerAction": "Follow the official Roblox experience and Heroplay Studios community for announcements."
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
+          "period": "Ongoing",
+          "category": "Codes and Events",
+          "headline": "Limited Rewards and Community Milestones",
+          "details": "New codes and event rewards can accompany game updates, milestones, and developer announcements.",
+          "playerAction": "Check the Shop code field and official community posts after major updates."
         },
         {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "period": "Ongoing",
+          "category": "Balance and Fixes",
+          "headline": "Progression and Gameplay Adjustments",
+          "details": "Changes to heroes, Gold progression, Luck, zones, encounters, and technical issues are tracked through developer announcements.",
+          "playerAction": "Review new announcements before spending a large amount of Gold or performing a long rolling session."
         },
         {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
-        },
-        {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
-        },
-        {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "period": "Official Channels",
+          "category": "Community",
+          "headline": "Heroplay Studios Roblox Community",
+          "details": "The official Roblox community connects players with the developer's games, announcements, and group-related rewards.",
+          "playerAction": "Join Heroplay Studios and follow the RNG Heroes experience."
         }
       ]
     }
@@ -749,31 +605,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about RNG Heroes",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is RNG Heroes?",
+        "answer": "RNG Heroes is a Roblox RNG hero collection simulator where you roll random heroes, defeat monsters for Gold and XP, upgrade your luck, and unlock new biomes and zones."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I redeem RNG Heroes codes?",
+        "answer": "Complete the tutorial to unlock the Shop, open the Shop, scroll to the Codes section, enter the code with the exact capitalization shown, and press Redeem. Each code works once per Roblox account."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "What does the Beginnings code give in RNG Heroes?",
+        "answer": "The Beginnings code grants 10,000 Gold and one Assassin hero after you finish the tutorial and open the Shop. Equip the Assassin right away for a stronger early team."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How does Luck work in RNG Heroes?",
+        "answer": "Luck improves your hero progression and helps you roll rarer, more powerful heroes. Spend Gold on Luck upgrades while your team can still clear enemies quickly, then pause when battles start to slow down."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How many players can join an RNG Heroes server?",
+        "answer": "Each RNG Heroes server supports up to 12 players at the same time."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Is RNG Heroes free to play?",
+        "answer": "Yes. RNG Heroes is a free Roblox experience, and you can launch it directly from the official Roblox game page."
       }
     ]
   },
@@ -799,126 +655,5 @@
     "copyright": "© 2026 RNG Heroes Wiki. Not affiliated with the developers of RNG Heroes.",
     "disclaimer": "Unofficial fan-made resource website."
   },
-  "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
-    },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
-      "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
-    },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
-    }
-  }
+  "pages": {}
 }
