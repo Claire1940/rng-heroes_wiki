@@ -1,11 +1,808 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki de RNG Heroes - Códigos, Heróis, Tier List e Guias",
+      "description": "A Wiki de RNG Heroes cobre códigos ativos, raridades de heróis, probabilidades de roll, upgrades, zonas, inimigos e dicas para iniciantes para ajudar jogadores de Roblox a progredir mais rápido.",
+      "keywords": "RNG Heroes, Roblox, códigos, tier list, heróis, probabilidades de roll, upgrades, zonas",
+      "ogTitle": "Wiki de RNG Heroes - Códigos, Heróis, Tier List e Guias",
+      "ogDescription": "A Wiki de RNG Heroes cobre códigos ativos, raridades de heróis, probabilidades de roll, upgrades, zonas, inimigos e dicas para iniciantes para ajudar jogadores de Roblox a progredir mais rápido.",
+      "twitterTitle": "Wiki de RNG Heroes - Códigos, Heróis, Tier List e Guias",
+      "twitterDescription": "A Wiki de RNG Heroes cobre códigos, raridades de heróis, probabilidades de roll, upgrades, zonas e dicas para iniciantes para jogadores de Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guia",
     "heroes": "Heróis",
-    "farming": "Farme",
-    "upgrades": "Melhorias",
+    "farming": "Farming",
+    "upgrades": "Upgrades",
     "zones": "Zonas",
     "updates": "Atualizações"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Simulador de Coleção de Heróis Baseado em Luck",
+    "title": "Wiki de RNG Heroes",
+    "description": "Faça roll de heróis raros, construa uma equipe poderosa, derrrote monstros, ganhe Gold e XP, melhore sua Luck e desbloqueie novos biomas e zonas em RNG Heroes.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "91%",
+        "label": "Avaliação dos Usuários"
+      },
+      "stat2": {
+        "value": "378K+",
+        "label": "Membros da Comunidade"
+      },
+      "stat3": {
+        "value": "1",
+        "label": "Códigos Ativos"
+      },
+      "stat4": {
+        "value": "12",
+        "label": "Tamanho do Servidor"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de RNG Heroes",
+    "description": "Faça rolls de heróis raros, monte uma equipe poderosa, derrote monstros e desbloqueie novos biomas e zonas neste simulador de coleção de heróis de RNG do Roblox."
+  },
+  "tools": {
+    "title": "RNG Heroes",
+    "titleHighlight": "Guias",
+    "subtitle": "Tudo o que você precisa para fazer rolls de heróis, derrotar monstros e desbloquear novas áreas em RNG Heroes",
+    "cards": [
+      {
+        "icon": "Ticket",
+        "title": "Códigos",
+        "description": "Códigos ativos para Gold grátis e um herói"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia para Iniciantes",
+        "description": "Faça rolls, equipe, farme e desbloqueie áreas"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier List",
+        "description": "Classifique os heróis por valor de combate e raridade"
+      },
+      {
+        "icon": "Dices",
+        "title": "Fazer Rolls e Luck",
+        "description": "Probabilidades de roll, upgrades de Luck e estratégia"
+      },
+      {
+        "icon": "Coins",
+        "title": "Farm de Gold",
+        "description": "As maneiras mais rápidas de ganhar e gastar Gold"
+      },
+      {
+        "icon": "Map",
+        "title": "Zonas e Biomas",
+        "description": "Ordem de desbloqueio, custos e dificuldade"
+      },
+      {
+        "icon": "Swords",
+        "title": "Monstros e Combate",
+        "description": "Loop de batalha, raridades e preparação"
+      },
+      {
+        "icon": "Clock",
+        "title": "Atualizações e Comunidade",
+        "description": "Novos heróis, códigos e links oficiais"
+      }
+    ]
+  },
+  "modules": {
+    "rngHeroesCodes": {
+      "title": "Códigos de RNG Heroes",
+      "intro": "Os códigos fornecem recompensas úteis para o início do jogo que reduzem a quantidade de rolls e farming de inimigos necessários no começo. Insira cada código com as letras maiúsculas e minúsculas exatas mostradas e resgate-o uma vez por conta do Roblox.",
+      "noExpiredNote": "Nenhum código expirado ainda. A lista de códigos de lançamento atualmente não possui expirados.",
+      "codes": [
+        {
+          "code": "Beginnings",
+          "status": "Ativo",
+          "reward": "10.000 Gold e 1 Herói Assassino",
+          "added": "Lançamento",
+          "redeemSteps": [
+            "Inicie o RNG Heroes no Roblox.",
+            "Conclua o tutorial de abertura.",
+            "Selecione o botão Shop no lado direito da tela.",
+            "Role até a seção de Códigos.",
+            "Insira Beginnings exatamente como mostrado.",
+            "Pressione Resgatar para coletar as recompensas."
+          ],
+          "troubleshooting": [
+            "Remova quaisquer espaços antes ou depois do código.",
+            "Verifique o B maiúsculo em Beginnings.",
+            "Um código não pode ser resgatado duas vezes na mesma conta.",
+            "Entre novamente no jogo antes de tentar um código recém-lançado."
+          ]
+        }
+      ]
+    },
+    "beginnerProgression": {
+      "title": "Guia de Progressão para Iniciantes de RNG Heroes",
+      "intro": "O ciclo principal de progressão consiste em fazer rolls de heróis, equipar a formação mais forte disponível, derrotar monstros, coletar Gold e XP, comprar melhorias e avançar para áreas mais difíceis. Priorize melhorias que ajudem sua equipe atual a eliminar inimigos sem desacelerar seus rolls de heróis.",
+      "steps": [
+        {
+          "title": "Complete o Tutorial",
+          "description": "Finalize todas as instruções do tutorial para aprender sobre rolls e combate. Concluir o tutorial também desbloqueia o menu da Loja usado para resgatar códigos.",
+          "priority": "Obrigatório"
+        },
+        {
+          "title": "Resgate o código Beginnings",
+          "description": "Abra a Loja, role até a seção de Códigos e resgate Beginnings para obter 10.000 de Gold e um herói Assassin. Equipe o Assassin imediatamente para um início mais rápido.",
+          "priority": "Faça primeiro"
+        },
+        {
+          "title": "Faça Rolls e Equipe Heróis",
+          "description": "O Warrior é um roll comum de 1 em 2 e serve como um iniciante básico. Continue fazendo rolls e substitua heróis comuns sempre que um novo herói oferecer maior poder de combate exibido.",
+          "priority": "Ciclo principal"
+        },
+        {
+          "title": "Faça Farm na Primeira Área",
+          "description": "Derrote os monstros disponíveis para coletar drops de Gold e XP. Permaneça na área atual até que seus heróis equipados consigam derrotar os inimigos de forma rápida e consistente.",
+          "priority": "Farm inicial"
+        },
+        {
+          "title": "Compre Melhorias Úteis",
+          "description": "Gaste Gold em Luck, Gold Drop, XP Drop e Combat Damage. Luck melhora a progressão de heróis, enquanto as outras melhorias aumentam a velocidade de farm e facilitam a limpeza de áreas mais fortes.",
+          "priority": "Crescimento de poder"
+        },
+        {
+          "title": "Desbloqueie Novas Áreas",
+          "description": "Continue o ciclo de fazer rolls, equipar heróis mais fortes, derrotar monstros e comprar melhorias. Entre em cada novo bioma após sua equipe conseguir derrotar confortavelmente os inimigos da área anterior.",
+          "priority": "Progressão a longo prazo"
+        },
+        {
+          "title": "Resgate o Bônus de Grupo",
+          "description": "Dê um like na experiência e entre no grupo da Heroplay Studios no Roblox para receber um bônus permanente de Gold e Luck que acelera cada sessão de farm e rolls.",
+          "priority": "Bônus permanente"
+        }
+      ]
+    },
+    "tierList": {
+      "title": "Tier List de RNG Heroes",
+      "intro": "Equipe heróis que forneçam o maior dano disponível e substitua os rolls iniciais comuns à medida que personagens mais fortes surgirem. O Assassin gratuito é a melhor recompensa de lançamento imediata, enquanto o Warrior serve principalmente como um roll introdutório.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Melhor Herói para o Início do Jogo",
+          "heroes": [
+            {
+              "name": "Assassin",
+              "obtainMethod": "Resgate o código Beginnings",
+              "rarity": "Herói de Código",
+              "strengths": [
+                "Obtido sem a necessidade de rolls repetidos",
+                "Oferece uma grande vantagem inicial em relação ao Warrior básico",
+                "Útil para derrotar inimigos iniciais e ganhar Gold para melhorias"
+              ],
+              "recommendedUse": "Equipe-o imediatamente após concluir o tutorial e mantenha-o ativo até que um herói obtido por roll mostre um poder de combate superior."
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Heróis de Alta Raridade Obtidos",
+          "heroes": [
+            {
+              "name": "Giros de Maior Raridade",
+              "obtainMethod": "Gire heróis usando o sistema principal de giros",
+              "rarity": "Varia conforme o giro",
+              "strengths": [
+                "Maior potencial de dano do que heróis iniciais comuns",
+                "Mais adequados para biomas avançados e monstros mais fortes",
+                "Principal fonte de melhorias de equipe a longo prazo"
+              ],
+              "recommendedUse": "Mantenha qualquer herói obtido que claramente aumente o poder exibido da equipe equipada."
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Heróis de Progressão Temporária",
+          "heroes": [
+            {
+              "name": "Giros de Média Raridade",
+              "obtainMethod": "Giro regular de heróis",
+              "rarity": "Entre giros comuns e os melhores giros",
+              "strengths": [
+                "Substitutos confiáveis para Warriors duplicados",
+                "Úteis enquanto economiza Gold para melhorias de Luck",
+                "Podem preencher posições abertas na equipe durante a progressão de área"
+              ],
+              "recommendedUse": "Use como melhorias temporárias e substitua-os quando um herói de raridade mais forte ou de maior dano aparecer."
+            }
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Herói Inicial",
+          "heroes": [
+            {
+              "name": "Warrior",
+              "obtainMethod": "Giro comum para iniciantes",
+              "rarity": "1 em 2",
+              "strengths": [
+                "Fácil de obter",
+                "Adequado para aprender o ciclo de combate do tutorial",
+                "Fornece um herói imediato antes que giros melhores estejam disponíveis"
+              ],
+              "recommendedUse": "Use no início e, em seguida, substitua os Warriors duplicados pelo Assassin ou por heróis mais fortes obtidos nos giros."
+            }
+          ]
+        }
+      ]
+    },
+    "rollingLuck": {
+      "title": "Guia de Giros e Luck de RNG Heroes",
+      "intro": "A Luck ajuda a obter uma melhor progressão de heróis, mas gastar todo o seu Gold nela pode deixar a equipe fraca demais para farmar com eficiência. Equilibre a Luck com Gold Drop, XP Drop e Combat Damage para que cada nova área continue rápida de limpar.",
+      "rows": [
+        {
+          "source": "Giro de Herói Base",
+          "cost": "Usa o sistema de giros do jogo",
+          "effect": "Gera um herói aleatório com base nas probabilidades de raridade disponíveis.",
+          "knownValue": "Warrior tem uma taxa de giro de 1 em 2.",
+          "priority": "Alta",
+          "recommendedTiming": "Gire sempre que a equipe equipada ainda contiver heróis iniciais fracos ou Warriors duplicados."
+        },
+        {
+          "source": "Melhoria de Luck",
+          "cost": "Gold",
+          "effect": "Melhora a progressão através do sistema de raridade de heróis e ajuda os jogadores a buscarem giros mais fortes.",
+          "knownValue": "Melhorável com Gold",
+          "priority": "Alta",
+          "recommendedTiming": "Compre Luck enquanto a equipe atual ainda consegue eliminar inimigos rapidamente. Pause os gastos com Luck quando o combate começar a desacelerar."
+        },
+        {
+          "source": "Melhoria de Dano de Combate",
+          "cost": "Gold",
+          "effect": "Aumenta o desempenho em combate e reduz o tempo necessário para derrotar monstros.",
+          "knownValue": "Melhorável com Gold",
+          "priority": "Alto",
+          "recommendedTiming": "Compre quando os inimigos demorarem muito para ser derrotados ou antes de ir para uma área mais difícil."
+        },
+        {
+          "source": "Melhoria de Gold Drop",
+          "cost": "Gold",
+          "effect": "Aumenta o Gold obtido ao lutar contra inimigos, fornecendo mais moedas para melhorias futuras.",
+          "knownValue": "Melhorável com Gold",
+          "priority": "Médio",
+          "recommendedTiming": "Compre após garantir dano suficiente para farmar continuamente sem batalhas demoradas."
+        },
+        {
+          "source": "Melhoria de XP Drop",
+          "cost": "Gold",
+          "effect": "Aumenta a progressão de XP ganha de inimigos derrotados.",
+          "knownValue": "Melhorável com Gold",
+          "priority": "Médio",
+          "recommendedTiming": "Invista quando a progressão de nível se tornar mais lenta do que a progressão de área e de herói."
+        },
+        {
+          "source": "Bônus de Grupo da Heroplay Studios",
+          "cost": "Dê um like no jogo e junte-se ao grupo do Roblox",
+          "effect": "Oferece um bônus permanente de farm e roll.",
+          "knownValue": "+10% de Gold e +1 de Luck",
+          "priority": "Essencial",
+          "recommendedTiming": "Resgate antes de iniciar uma longa sessão de farm ou roll."
+        },
+        {
+          "source": "Código Beginnings",
+          "cost": "Grátis após o tutorial",
+          "effect": "Oferece Gold inicial suficiente para melhorias e concede um herói Assassin sem depender de um roll raro.",
+          "knownValue": "10.000 Gold e 1 herói Assassin",
+          "priority": "Essencial",
+          "recommendedTiming": "Resgate imediatamente após concluir o tutorial."
+        }
+      ]
+    },
+    "goldFarming": {
+      "title": "Guia de Farm de Gold e Melhorias de RNG Heroes",
+      "intro": "O Gold impulsiona a maior parte da progressão inicial em RNG Heroes. Ganhe-o em batalhas contra monstros, resgate o código de lançamento, ative o bônus da comunidade e reinvista-o em Luck, espaços adicionais para heróis, heróis maiores e acesso a novas áreas.",
+      "rows": [
+        {
+          "stage": "Início Grátis",
+          "methodOrUpgrade": "Resgate o código Beginnings",
+          "requirement": "Termine o tutorial e abra a Loja",
+          "rewardOrEffect": "10.000 Gold e 1 herói Assassin",
+          "priority": "Máxima",
+          "recommendedUse": "Equipe o Assassin imediatamente e reserve o Gold para melhorias úteis de equipe e desbloqueios de áreas iniciais."
+        },
+        {
+          "stage": "Bônus Permanente",
+          "methodOrUpgrade": "Curta o jogo e junte-se ao Heroplay Studios",
+          "requirement": "Junte-se à comunidade oficial do Roblox",
+          "rewardOrEffect": "+10% de Gold e +1 de Luck",
+          "priority": "Máxima",
+          "recommendedUse": "Ative isso antes de iniciar uma longa sessão de farming, pois o bônus melhora tanto o ganho de Gold quanto os rolls de heróis."
+        },
+        {
+          "stage": "Farming Principal",
+          "methodOrUpgrade": "Derrote monstros continuamente",
+          "requirement": "Equipe uma equipe de heróis ativa",
+          "rewardOrEffect": "Monstros fornecem Gold e XP",
+          "priority": "Máxima",
+          "recommendedUse": "Farme inimigos que sua equipe derrota rapidamente em vez de passar muito tempo em um alvo mais forte."
+        },
+        {
+          "stage": "Expansão de Equipe",
+          "methodOrUpgrade": "Compre slots de equipar adicionais",
+          "requirement": "Gaste Gold no sistema de upgrades",
+          "rewardOrEffect": "Permite que mais heróis se juntem à equipe de combate ativa",
+          "priority": "Alta",
+          "recommendedUse": "Priorize um novo slot quando você já possuir um herói forte não equipado."
+        },
+        {
+          "stage": "Poder de Roll",
+          "methodOrUpgrade": "Melhore a Luck",
+          "requirement": "Gaste Gold em upgrades de Luck",
+          "rewardOrEffect": "Melhora a chance de rolar heróis mais raros e poderosos",
+          "priority": "Alta",
+          "recommendedUse": "Aumente a Luck antes de se comprometer com um grande número de rolls de heróis."
+        },
+        {
+          "stage": "Progressão de Mundo",
+          "methodOrUpgrade": "Desbloqueie a próxima área",
+          "requirement": "Pague o requisito de Gold exibido na entrada da área",
+          "rewardOrEffect": "Abre outro bioma ou zona com novos objetivos de progressão",
+          "priority": "Média",
+          "recommendedUse": "Compre a próxima área depois que sua equipe atual conseguir derrotar os monstros próximos sem muita demora."
+        },
+        {
+          "stage": "Upgrade Secundário",
+          "methodOrUpgrade": "Aumente o tamanho do herói",
+          "requirement": "Gaste Gold no upgrade de tamanho do herói",
+          "rewardOrEffect": "Torna os heróis coletados maiores",
+          "priority": "Média",
+          "recommendedUse": "Compre após garantir upgrades importantes de Luck, slots de equipe e progressão de área."
+        },
+        {
+          "stage": "Rota Repetível",
+          "methodOrUpgrade": "Farme, faça upgrade, role e avance",
+          "requirement": "Mantenha uma equipe que limpe a zona atual de forma eficiente",
+          "rewardOrEffect": "Cria um ciclo repetível de maior ganho de Gold e rolls de heróis mais fortes",
+          "priority": "Contínuo",
+          "recommendedUse": "Retorne a uma área mais rápida sempre que a progressão desacelerar, depois melhore a equipe antes de tentar a próxima zona novamente."
+        }
+      ]
+    },
+    "zonesBiomes": {
+      "title": "Guia de Zonas e Biomas de RNG Heroes",
+      "intro": "RNG Heroes utiliza uma rota de progressão baseada em zonas. Cada estágio exige que os jogadores fortaleçam sua equipe ativa, coletem Gold suficiente para a próxima entrada e decidam se avançar ou continuar farmando na área atual resultará em um progresso mais rápido.",
+      "zones": [
+        {
+          "stage": "1",
+          "name": "Tutorial e Área Inicial",
+          "unlockRequirement": "Disponível ao iniciar o jogo",
+          "enemyDifficulty": "Inicial",
+          "mainRewards": "Gold, XP, progresso do tutorial e acesso ao Shop",
+          "objectives": [
+            "Complete o tutorial",
+            "Faça rolls e equipe os primeiros heroes",
+            "Aprenda como as batalhas contra monstros produzem Gold e XP",
+            "Desbloqueie o Shop e resgate Beginnings"
+          ],
+          "advanceWhen": "O tutorial está concluído, a recompensa Assassin está equipada e os primeiros inimigos estão sendo derrotados rapidamente."
+        },
+        {
+          "stage": "2",
+          "name": "Primeiros Biomas Desbloqueados",
+          "unlockRequirement": "Compre o acesso com Gold na entrada da área",
+          "enemyDifficulty": "Progressão inicial",
+          "mainRewards": "Gold e XP adicionais para melhorias, rolls e portões de áreas posteriores",
+          "objectives": [
+            "Preencha todos os slots de hero disponíveis",
+            "Substitua heroes mais fracos por rolls mais fortes",
+            "Compre melhorias iniciais de Luck e de slots de equipamentos",
+            "Mantenha tempos rápidos de eliminação de monstros"
+          ],
+          "advanceWhen": "A equipe ativa elimina os inimigos de forma consistente e o custo da próxima área pode ser pago sem gastar todos os fundos de melhoria."
+        },
+        {
+          "stage": "3",
+          "name": "Zonas de Progressão Média",
+          "unlockRequirement": "Continue comprando acesso às zonas enquanto melhora a equipe ativa",
+          "enemyDifficulty": "Moderada",
+          "mainRewards": "Maior renda de progressão e acesso a mais partes do mundo",
+          "objectives": [
+            "Consiga heroes mais raros nos rolls",
+            "Expanda a equipe ativa",
+            "Equilibre as melhorias de Luck com os custos de desbloqueio de áreas",
+            "Retorne a uma zona anterior quando as batalhas ficarem muito lentas"
+          ],
+          "advanceWhen": "Os monstros atuais caem em um ritmo confiável e a equipe tem força total suficiente para evitar batalhas estagnadas."
+        },
+        {
+          "stage": "4",
+          "name": "Biomas Avançados",
+          "unlockRequirement": "Acumule Gold através do farm repetido de monstros e da progressão de zonas",
+          "enemyDifficulty": "Alta",
+          "mainRewards": "Progressão de fim de jogo, alvos de combate mais fortes e acesso à área final",
+          "objectives": [
+            "Use os heroes mais fortes disponíveis",
+            "Mantenha todos os slots de combate desbloqueados preenchidos",
+            "Invista em Luck antes de sessões prolongadas de rolls",
+            "Farme na melhor zona que ainda proporcione derrotas rápidas"
+          ],
+          "advanceWhen": "A equipe consegue lidar com monstros mais fortes sem longos tempos de inatividade entre as recompensas."
+        },
+        {
+          "stage": "5",
+          "name": "Área Final Disponível",
+          "unlockRequirement": "Desbloqueie as áreas anteriores e pague o requisito de entrada final exibido",
+          "enemyDifficulty": "Nível de progressão mais alto disponível",
+          "mainRewards": "Conclusão da rota da zona atual e acesso aos confrontos mais fortes disponíveis",
+          "objectives": [
+            "Alcance a última área",
+            "Continue procurando por heróis extremamente raros",
+            "Otimize a equipe de combate ativa",
+            "Prepare-se para futuras zonas e atualizações"
+          ],
+          "advanceWhen": "A rota do mundo atual está concluída e o objetivo restante é melhorar a raridade dos heróis, a força da equipe e a velocidade de farm."
+        }
+      ]
+    },
+    "monstersCombat": {
+      "title": "Guia de Combate e Monstros de RNG Heroes",
+      "intro": "Os monstros são a principal fonte repetível de Gold e XP em RNG Heroes. Derrotas mais rápidas geram uma progressão mais rápida, então a estratégia mais eficaz é equipar os heróis mais fortes disponíveis, desbloquear slots de equipe adicionais e evitar permanecer em uma zona onde cada batalha demore muito tempo.",
+      "panels": [
+        {
+          "title": "Loop de Batalha Principal contra Monstros",
+          "summary": "Derrote monstros para coletar Gold e XP, depois use essas recompensas para fortalecer a equipe e desbloquear mais áreas.",
+          "details": [
+            "Role heróis e equipe os resultados mais fortes disponíveis.",
+            "Envie a equipe ativa contra os monstros na zona atual.",
+            "Colete Gold e XP dos combates concluídos.",
+            "Gaste Gold em upgrades, slots adicionais e acesso a áreas.",
+            "Repita o loop em biomas progressivamente mais fortes."
+          ]
+        },
+        {
+          "title": "Equipe de Heróis Ativa",
+          "summary": "Apenas heróis equipados contribuem para o grupo de combate ativo.",
+          "details": [
+            "Mantenha todos os slots de equipamento desbloqueados preenchidos.",
+            "Substitua heróis equipados mais fracos sempre que obtiver um roll mais forte.",
+            "Use upgrades de slots de equipamento adicionais quando heróis fortes estiverem esperando fora da equipe ativa.",
+            "Equipe o Assassin do código Beginnings durante a progressão inicial."
+          ]
+        },
+        {
+          "title": "Raridade e Força dos Heróis",
+          "summary": "Heróis mais raros fornecem o poder necessário para derrotar monstros mais fortes e avançar pelas zonas posteriores.",
+          "details": [
+            "Luck melhora a chance de obter heróis raros e poderosos.",
+            "O loop de jogabilidade oficial é construído em torno de fazer rolls repetidamente e coletar heróis mais fortes.",
+            "Rolls extremamente raros podem alcançar probabilidades imensas, incluindo heróis exibidos com raridade de um em um trilhão.",
+            "Economize Gold para upgrades de Luck antes de realizar sessões prolongadas de rolls."
+          ]
+        },
+        {
+          "title": "Monstros da Área Inicial",
+          "summary": "Os primeiros inimigos apresentam o loop de combate de Gold e XP e são adequados para uma nova equipe.",
+          "details": [
+            "Use esses inimigos enquanto conclui o tutorial e monta a primeira equipe completa.",
+            "Resgate e equipe a recompensa do Assassin para melhorar a velocidade de eliminação inicial.",
+            "Permaneça aqui apenas enquanto os inimigos das áreas posteriores levarem um tempo substancialmente maior para serem derrotados."
+          ]
+        },
+        {
+          "title": "Monstros de Bioma e Zona",
+          "summary": "Áreas recém-desbloqueadas introduzem inimigos mais fortes que testam a progressão atual da equipe.",
+          "details": [
+            "Entre em um novo bioma após comprar seu requisito de acesso.",
+            "Compare a nova velocidade de conclusão com a área anterior.",
+            "Continue na nova zona enquanto as batalhas continuarem eficientes.",
+            "Retorne à área anterior para obter Gold se os novos inimigos desacelerarem demais a progressão."
+          ]
+        },
+        {
+          "title": "Encontros de Fim de Zona",
+          "summary": "Áreas posteriores exigem rolls mais fortes, mais heróis ativos e melhores upgrades permanentes.",
+          "details": [
+            "Preencha todos os slots de combate disponíveis com os heróis mais fortes.",
+            "Melhore a Luck para aumentar o acesso a heróis raros.",
+            "Use o farm repetido de Gold para financiar os portões de zona restantes.",
+            "Alcance a área final apenas depois que a equipe conseguir derrotar os inimigos anteriores com segurança."
+          ]
+        },
+        {
+          "title": "Teaser do Dragão",
+          "summary": "A descrição oficial do Roblox inclui um ícone de dragão seguido por pontos de interrogação.",
+          "details": [
+            "O teaser aparece junto com a descrição de monstros, biomas e zonas do jogo.",
+            "Continue progredindo pelas áreas posteriores e siga os anúncios oficiais de atualização para conteúdos relacionados."
+          ]
+        },
+        {
+          "title": "Lista de Preparação de Combate",
+          "summary": "Conclua estas etapas antes de gastar Gold na próxima área.",
+          "details": [
+            "Ative o bônus comunitário de +10% de Gold e +1 de Luck.",
+            "Equipe o herói mais forte em cada slot disponível.",
+            "Use o Assassin de Beginnings durante a progressão inicial.",
+            "Compre um upgrade útil de equipe ou de Luck.",
+            "Confirme se os monstros atuais estão sendo derrotados rapidamente.",
+            "Guarde Gold suficiente para o próximo requisito de área exibido."
+          ]
+        }
+      ]
+    },
+    "updatesCommunity": {
+      "title": "Atualizações e Comunidade de RNG Heroes",
+      "intro": "A Heroplay Studios publica as principais informações do jogo através da experiência e comunidade oficiais do Roblox. Os jogadores devem seguir ambas as páginas para acompanhar anúncios de novos conteúdos e ativar o bônus permanente de Gold e Luck relacionado ao grupo.",
+      "events": [
+        {
+          "period": "Lançamento",
+          "category": "Lançamento do Jogo",
+          "headline": "RNG Heroes abre sua primeira rota de progressão",
+          "details": "O lançamento introduz a rolagem de heróis, coleção de heróis raros, batalhas de monstros, progressão de Gold e XP, e múltiplos biomas e zonas desbloqueáveis.",
+          "playerAction": "Conclua o tutorial, monte uma equipe ativa e comece a desbloquear áreas."
+        },
+        {
+          "period": "Lançamento",
+          "category": "Código Grátis",
+          "headline": "Código Beginnings Adicionado",
+          "details": "O código Beginnings concede 10.000 de Gold e um herói Assassin após o tutorial desbloquear a Loja.",
+          "playerAction": "Abra a Loja, role até o campo do código, insira Beginnings e equipe o Assassin."
+        },
+        {
+          "period": "Atual",
+          "category": "Bônus da Comunidade",
+          "headline": "Bônus de +10% de Gold e +1 de Luck",
+          "details": "Curtir o jogo e entrar na comunidade do Roblox da Heroplay Studios ativa um benefício adicional de Gold e Luck.",
+          "playerAction": "Junte-se ao grupo oficial antes de iniciar uma longa sessão de farm ou roll."
+        },
+        {
+          "period": "Atual",
+          "category": "Progressão do Mundo",
+          "headline": "Os jogadores podem alcançar a área final disponível",
+          "details": "A rota de progressão atual suporta rolls de heroes repetidos e desbloqueio de áreas até que a última zone disponível seja alcançada.",
+          "playerAction": "Fortaleça a equipe ativa e compre cada entrada de área em sequência."
+        },
+        {
+          "period": "Em andamento",
+          "category": "Atualizações de Conteúdo",
+          "headline": "Novos Heroes e Zones",
+          "details": "Adições futuras de progressão podem expandir o pool de heroes, a rota de biomes, monstros e encontros de fim de jogo.",
+          "playerAction": "Siga a experiência oficial do Roblox e a comunidade da Heroplay Studios para anúncios."
+        },
+        {
+          "period": "Em andamento",
+          "category": "Codes e Eventos",
+          "headline": "Recompensas Limitadas e Marcos da Comunidade",
+          "details": "Novos codes e recompensas de eventos podem acompanhar atualizações do jogo, marcos e anúncios dos desenvolvedores.",
+          "playerAction": "Verifique o campo de code na Shop e as postagens oficiais da comunidade após grandes atualizações."
+        },
+        {
+          "period": "Em andamento",
+          "category": "Balanceamento e Correções",
+          "headline": "Ajustes de Progressão e Gameplay",
+          "details": "Mudanças em heroes, progressão de Gold, Luck, zones, encontros e problemas técnicos são acompanhadas por meio de anúncios dos desenvolvedores.",
+          "playerAction": "Revise os novos anúncios antes de gastar uma grande quantidade de Gold ou realizar uma longa sessão de rolling."
+        },
+        {
+          "period": "Canais Oficiais",
+          "category": "Comunidade",
+          "headline": "Comunidade Roblox da Heroplay Studios",
+          "details": "A comunidade oficial do Roblox conecta os jogadores com os jogos, anúncios e recompensas relacionadas ao grupo do desenvolvedor.",
+          "playerAction": "Junte-se à Heroplay Studios e siga a experiência do RNG Heroes."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre o RNG Heroes",
+    "questions": [
+      {
+        "question": "O que é o RNG Heroes?",
+        "answer": "O RNG Heroes é um simulador de coleção de heroes RNG no Roblox onde você faz rolls de heroes aleatórios, derrota monstros para obter Gold e XP, melhora sua Luck e desbloqueia novos biomes e zones."
+      },
+      {
+        "question": "Como eu resgato codes do RNG Heroes?",
+        "answer": "Complete o tutorial para desbloquear a Shop, abra a Shop, role até a seção de Codes, insira o code com a capitalização exata mostrada e pressione Redeem. Cada code funciona uma vez por conta do Roblox."
+      },
+      {
+        "question": "O que o code Beginnings dá no RNG Heroes?",
+        "answer": "O code Beginnings concede 10.000 de Gold e um hero Assassin depois que você terminar o tutorial e abrir a Shop. Equipe o Assassin imediatamente para ter uma equipe inicial mais forte."
+      },
+      {
+        "question": "Como a Luck funciona no RNG Heroes?",
+        "answer": "A Luck melhora a progressão do seu hero e ajuda a fazer roll de heroes mais raros e poderosos. Gaste Gold em upgrades de Luck enquanto sua equipe ainda consegue derrotar os inimigos rapidamente, depois faça uma pausa quando as batalhas começarem a desacelerar."
+      },
+      {
+        "question": "Quantos jogadores podem entrar em um servidor de RNG Heroes?",
+        "answer": "Cada servidor de RNG Heroes suporta até 12 jogadores ao mesmo tempo."
+      },
+      {
+        "question": "O RNG Heroes é grátis para jogar?",
+        "answer": "Sim. O RNG Heroes é uma experiência gratuita do Roblox, e você pode iniciá-lo diretamente da página oficial do jogo no Roblox."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para girar em RNG Heroes?",
+    "description": "Junte-se à comunidade de RNG Heroes para códigos, giros de heróis, atualizações e dicas de progressão!",
+    "joinCommunity": "Junte-se à Comunidade",
+    "joinGame": "Jogue no Roblox"
+  },
+  "footer": {
+    "title": "RNG Heroes Wiki",
+    "description": "Sua central de recursos completa para códigos de RNG Heroes, raridades de heróis, chances de giro, zonas, monstros e guias de progressão.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Jurídico",
+    "robloxGame": "RNG Heroes",
+    "robloxGroup": "Heroplay Studios",
+    "youtube": "Gameplay no YouTube",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 RNG Heroes Wiki. Não afiliado aos desenvolvedores de RNG Heroes.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de RNG Heroes",
+      "description": "Códigos ativos de RNG Heroes para recompensas gratuitas de Gold e heróis, com passos de resgate detalhados e os códigos verificados mais recentes.",
+      "metaTitle": "Códigos de RNG Heroes - Recompensas Gratuitas de Gold e Heróis",
+      "metaDescription": "Resgate códigos ativos de RNG Heroes para Gold e heróis gratuitos. Lista atualizada de códigos funcionais com passos exatos de resgate e recompensas.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são os Códigos de RNG Heroes?",
+      "whatIsDescription": "Códigos são sequências oficiais de resgate lançadas pela Heroplay Studios que concedem recompensas gratuitas no jogo, como Gold e heróis. Insira cada código na seção Shop Codes para resgatar sua recompensa uma vez por conta do Roblox.",
+      "why": "Por que usar os Códigos de RNG Heroes?",
+      "whySteps": {
+        "step1Title": "Gold Inicial Grátis",
+        "step1Description": "Códigos como Beginnings concedem 10.000 de Gold para financiar seus primeiros upgrades de Luck e de slots de equipamento sem farm extra.",
+        "step2Title": "Herói Inicial Grátis",
+        "step2Description": "O código Beginnings concede um herói Assassin que supera o giro básico de Warrior e acelera o combate inicial.",
+        "step3Title": "Progressão Mais Rápida",
+        "step3Description": "Resgatar todos os códigos ativos remove horas de grind inicial para que você possa alcançar novos biomas e zonas mais cedo."
+      },
+      "featured": "Códigos em Destaque",
+      "all": "Todos os Códigos"
+    },
+    "guide": {
+      "title": "Guia de RNG Heroes",
+      "description": "Guias completos de RNG Heroes cobrindo como jogar, progressão para iniciantes, tutoriais e dicas para girar heróis, farmar Gold e desbloquear zonas.",
+      "metaTitle": "Guia de RNG Heroes - Como Jogar, Dicas para Iniciantes e Tutoriais",
+      "metaDescription": "Aprenda a jogar RNG Heroes com guias para iniciantes, tutoriais e dicas para girar heróis, farmar Gold e desbloquear novas zonas.",
+      "categoryLabel": "GUIAS",
+      "whatIs": "O que é o Guia de RNG Heroes?",
+      "whatIsDescription": "Guias guiam você pelo loop principal do jogo: rolling de heroes, equipar um time, derrotar monstros para obter Gold e XP, comprar upgrades e desbloquear novos biomes e zones.",
+      "why": "Por que ler o Guia de RNG Heroes?",
+      "whySteps": {
+        "step1Title": "Aprenda o Loop Principal",
+        "step1Description": "Entenda como rolling, combate e upgrades se conectam para que cada ação impulsione sua progressão.",
+        "step2Title": "Evite Erros Comuns",
+        "step2Description": "Siga passos comprovados para iniciantes para evitar desperdiçar Gold nos upgrades errados ou correr para zones mais difíceis.",
+        "step3Title": "Progrida Mais Rápido",
+        "step3Description": "Aplique dicas e truques que encurtam o caminho desde o seu primeiro roll de Warrior até os heroes mais raros do jogo."
+      },
+      "featured": "Guias em Destaque",
+      "all": "Todos os Guias"
+    },
+    "heroes": {
+      "title": "Heroes de RNG Heroes",
+      "description": "Todos os heroes de RNG Heroes classificados por raridade e poder, incluindo a lista completa de heroes, tier list, chances de roll e como obter heroes melhores.",
+      "metaTitle": "Heroes de RNG Heroes - Tier List, Lista de Heroes e Raridades",
+      "metaDescription": "Navegue pela lista completa de heroes de RNG Heroes, tier list, raridades e chances de roll, e aprenda como obter heroes melhores e mais raros.",
+      "categoryLabel": "HEROES",
+      "whatIs": "O que são os Heroes de RNG Heroes?",
+      "whatIsDescription": "Heroes são os personagens que você obtém em rolls, equipa e envia para a batalha contra monstros. Cada hero tem uma raridade que reflete o quão difícil é obtê-lo em um roll e quanto poder de combate ele adiciona ao seu time ativo.",
+      "why": "Por que estudar os Heroes de RNG Heroes?",
+      "whySteps": {
+        "step1Title": "Monte o Melhor Time",
+        "step1Description": "Use a tier list para equipar heroes que causam o maior dano e derrotam monstros mais rapidamente.",
+        "step2Title": "Conheça as Raridades",
+        "step2Description": "Entenda as raridades dos heroes e as chances de roll para saber quais rolls vale a pena manter e quais substituir.",
+        "step3Title": "Faça Roll de Heroes Mais Raros",
+        "step3Description": "Saiba como Luck e a estratégia de rolling melhoram suas chances de obter os heroes mais raros e poderosos."
+      },
+      "featured": "Heroes em Destaque",
+      "all": "Todos os Heroes"
+    },
+    "farming": {
+      "title": "Farming em RNG Heroes",
+      "description": "Os métodos de farming mais rápidos de RNG Heroes para Gold e XP, incluindo as melhores rotas de farming, subir de nível rapidamente e gastos eficientes de upgrades.",
+      "metaTitle": "Farming em RNG Heroes - Métodos de Gold, XP e Subir de Nível Rápido",
+      "metaDescription": "Encontre os melhores métodos de farming de RNG Heroes para Gold e XP, rotas rápidas para subir de nível e como reinvestir seus ganhos em upgrades e zones.",
+      "categoryLabel": "FARMING",
+      "whatIs": "O que é o Farming em RNG Heroes?",
+      "whatIsDescription": "Farming é o processo repetível de derrotar monstros para obter Gold e XP, e depois reinvestir essas recompensas em upgrades, slots de hero e novas zones.",
+      "why": "Por que otimizar o Farming em RNG Heroes?",
+      "whySteps": {
+        "step1Title": "Ganhe Gold Mais Rápido",
+        "step1Description": "Use o melhor método de farming para maximizar os ganhos de Gold em cada batalha contra monstros.",
+        "step2Title": "Suba de Nível Rapidamente",
+        "step2Description": "Siga rotas rápidas para subir de nível que mantêm a força do seu time e a progressão de zones avançando juntas.",
+        "step3Title": "Reinvista de Forma Inteligente",
+        "step3Description": "Transforme o Gold obtido no farming em Luck, slots de equipar e desbloqueios de áreas que multiplicam seus ganhos futuros."
+      },
+      "featured": "Guias de Farming em Destaque",
+      "all": "Todos os Guias de Farming"
+    },
+    "upgrades": {
+      "title": "Upgrades de RNG Heroes",
+      "description": "Todos os upgrades de RNG Heroes classificados por valor, incluindo upgrades de Luck, espaços de equipamentos e tamanho do herói, com a melhor ordem de upgrade para seguir.",
+      "metaTitle": "Upgrades de RNG Heroes - Luck, Espaços de Equipamentos e Melhores Upgrades",
+      "metaDescription": "Descubra os melhores upgrades de RNG Heroes, incluindo Luck, espaços de equipamentos e tamanho do herói, e a ordem recomendada para gastar seu Gold.",
+      "categoryLabel": "UPGRADES",
+      "whatIs": "O que são Upgrades de RNG Heroes?",
+      "whatIsDescription": "Upgrades são melhorias permanentes compradas com Gold que aumentam Luck, dano de combate, drops de Gold e XP, espaços de equipamentos e tamanho do herói.",
+      "why": "Por que escolher os upgrades com cuidado?",
+      "whySteps": {
+        "step1Title": "Gaste Gold com Eficiência",
+        "step1Description": "Siga a melhor ordem de upgrade para que cada investimento de Gold acelere sua progressão de forma mensurável.",
+        "step2Title": "Role Heróis Mais Raros",
+        "step2Description": "Upgrades de Luck melhoram suas chances de rolar os heróis mais raros e poderosos do jogo.",
+        "step3Title": "Expanda sua Equipe",
+        "step3Description": "Upgrades de espaços de equipamentos permitem que mais heróis fortes lutem ao mesmo tempo, aumentando seu poder de combate geral."
+      },
+      "featured": "Upgrades em Destaque",
+      "all": "Todos os Upgrades"
+    },
+    "zones": {
+      "title": "Zonas de RNG Heroes",
+      "description": "A rota completa de progressão de zonas e biomas de RNG Heroes, incluindo ordem de desbloqueio, custos, requisitos de área e o que cada bioma oferece.",
+      "metaTitle": "Zonas de RNG Heroes - Biomas, Desbloqueios de Área e Requisitos",
+      "metaDescription": "Explore cada zona e bioma de RNG Heroes, incluindo a ordem de desbloqueio, custos de Gold, requisitos de área e inimigos em cada região.",
+      "categoryLabel": "ZONAS",
+      "whatIs": "O que são Zonas de RNG Heroes?",
+      "whatIsDescription": "Zonas e biomas são as áreas que você desbloqueia com Gold conforme progride. Cada nova área introduz monstros mais fortes, recompensas melhores e o próximo passo na rota de progressão.",
+      "why": "Por que aprender a rota das zonas?",
+      "whySteps": {
+        "step1Title": "Desbloqueie em Ordem",
+        "step1Description": "Siga a ordem correta de desbloqueio de biomas para evitar ficar travado em inimigos que você ainda não consegue derrotar.",
+        "step2Title": "Planeje os Custos",
+        "step2Description": "Saiba o requisito de Gold de cada área com antecedência para ter sempre fundos prontos para avançar.",
+        "step3Title": "Escolha Quando Avançar",
+        "step3Description": "Decide se deve avançar ou continuar o farming com base na rapidez com que sua equipe limpa cada zona."
+      },
+      "featured": "Zonas em Destaque",
+      "all": "Todas as Zonas"
+    },
+    "updates": {
+      "title": "Atualizações de RNG Heroes",
+      "description": "As últimas atualizações de RNG Heroes, notas de patch e log de atualizações, cobrindo novos heróis, zonas, mudanças de balanceamento, correções de bugs e atualizações secretas.",
+      "metaTitle": "Atualizações de RNG Heroes - Última Atualização, Notas de Patch e Log de Atualizações",
+      "metaDescription": "Acompanhe as últimas atualizações de RNG Heroes, notas de patch e log de atualizações, incluindo novos heróis, zonas, mudanças de balanceamento e correções de bugs.",
+      "categoryLabel": "ATUALIZAÇÕES",
+      "whatIs": "O que são Atualizações de RNG Heroes?",
+      "whatIsDescription": "As atualizações acompanham cada mudança que a Heroplay Studios lança para o RNG Heroes, incluindo novos heróis e zonas, ajustes de equilíbrio, correções de bugs e adições de conteúdo secreto.",
+      "why": "Por que acompanhar as Atualizações do RNG Heroes?",
+      "whySteps": {
+        "step1Title": "Confira os Novos Conteúdos",
+        "step1Description": "Mantenha-se atualizado sobre heróis, biomas, zonas e recursos recém-adicionados assim que forem lançados.",
+        "step2Title": "Ajuste Sua Estratégia",
+        "step2Description": "Leia as notas de atualização para ver como as mudanças de equilíbrio afetam sua equipe, upgrades e rotas de farming.",
+        "step3Title": "Encontre Atualizações Secretas",
+        "step3Description": "Descubra conteúdos ocultos e adições de eventos que o log de atualizações revela ao longo do tempo."
+      },
+      "featured": "Atualizações em Destaque",
+      "all": "Todas as Atualizações"
+    }
   }
 }
