@@ -74,37 +74,37 @@
         "description": "Códigos activos para obtener Gold gratis y un héroe"
       },
       {
-        "icon": "Libro abierto",
+        "icon": "BookOpen",
         "title": "Guía para principiantes",
         "description": "Haz roll, equipa, farmea y desbloquea áreas"
       },
       {
-        "icon": "Trofeo",
+        "icon": "Trophy",
         "title": "Tier List",
         "description": "Clasifica a los héroes por valor de combate y rareza"
       },
       {
-        "icon": "Dados",
+        "icon": "Dices",
         "title": "Rolls y Luck",
         "description": "Probabilidades de roll, mejoras de Luck y estrategia"
       },
       {
-        "icon": "Monedas",
+        "icon": "Coins",
         "title": "Farmeo de Gold",
         "description": "Las formas más rápidas de ganar y gastar Gold"
       },
       {
-        "icon": "Mapa",
+        "icon": "Map",
         "title": "Zonas y biomas",
         "description": "Orden de desbloqueo, costos y dificultad"
       },
       {
-        "icon": "Espadas",
+        "icon": "Swords",
         "title": "Monstruos y combate",
         "description": "Bucle de batalla, rarezas y preparación"
       },
       {
-        "icon": "Reloj",
+        "icon": "Clock",
         "title": "Actualizaciones y comunidad",
         "description": "Nuevos héroes, códigos y enlaces oficiales"
       }
