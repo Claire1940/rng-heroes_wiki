@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "RNG Heroes Wiki - Codes, Heroes & Rarity Guide",
+  "short_name": "RNG Heroes",
+  "description": "RNG Heroes Wiki covers working codes, hero rarities, rolls, biomes, monsters, and progression tips for the Roblox RNG hero collection game.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#66b81e",
+  "background_color": "#0a0f06",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
