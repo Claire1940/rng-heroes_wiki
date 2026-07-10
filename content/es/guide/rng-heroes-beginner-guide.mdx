@@ -1,0 +1,193 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guía para principiantes de RNG Heroes: Progresión paso a paso y consejos",
+  description: "Domina la guía para principiantes de RNG Heroes para obtener héroes raros, farmear oro de manera eficiente y desbloquear nuevos biomas en este simulador de suerte de Roblox.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e40af/fff?text=RNG+Heroes+Beginner+Guide",
+  date: "2026-07-10",
+  author: "Equipo de la Wiki de RNG Heroes",
+  keywords: "rng heroes, guía para principiantes, roblox, simulador de suerte, farmear oro"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Objetivo principal**: Sigue la **guía para principiantes de RNG Heroes** para obtener héroes raros y construir un equipo capaz de derrotar monstruos para ganar Oro y XP.
+- **Código esencial**: Usa el código **Beginnings** inmediatamente después del tutorial para reclamar 10,000 de Oro y un héroe Asesino gratuito.
+- **Mecánica de Suerte**: Prioriza las mejoras de Suerte (Luck) para mejorar tus probabilidades de obtener héroes raros, pero mantén tu daño lo suficientemente alto para farmear con eficiencia.
+- **Bono de comunidad**: Únete al grupo Heroplay Studios en Roblox para activar un potenciador permanente de +10% de Oro y +1 de Suerte.
+- **Ciclo de progresión**: Obtén héroes, equipa al equipo más fuerte, derrota monstruos, mejora estadísticas y desbloquea nuevas zonas.
+</Callout>
+
+<Section icon={Map} title="Primeros pasos en RNG Heroes">
+
+El núcleo del juego de RNG Heroes gira en torno a un sistema de recolección de héroes basado en la suerte combinado con combate activo contra monstruos. Como nuevo jugador, tu viaje comienza en el Área de Tutorial, donde aprenderás las mecánicas fundamentales de "tirar" (roll) por héroes. A diferencia de los RPG tradicionales donde podrías comprar personajes específicos, aquí cada héroe es producto del azar. Tu éxito depende de qué tan eficazmente gestiones tus estadísticas de Oro y Suerte para asegurar unidades de alto nivel.
+
+**Puntos destacados del video:**
+- **Recorrido completo**: Una demostración completa de los primeros 30 minutos de juego.
+- **Ubicación del código secreto**: Muestra exactamente dónde encontrar el menú de la Tienda para ingresar recompensas.
+- **Mecánicas de combate**: Explica cómo el poder del héroe se traduce en daño contra los monstruos.
+- **Farmeo inicial**: Demuestra los mejores lugares para posicionarse y obtener la máxima XP.
+
+<YouTubeEmbed videoId="78t3CzjFGeg" title="¡De novato al héroe más raro en RNG Heroes!" />
+
+Al terminar las indicaciones iniciales del tutorial, tendrás un Guerrero básico. Este héroe tiene una probabilidad de 1 entre 2, lo que significa que es la unidad más común del juego. Aunque cumple su propósito durante los primeros minutos, deberías intentar reemplazarlo lo antes posible. El juego cuenta con una variedad de biomas, cada uno con monstruos más fuertes que requieren un poder total de equipo mayor para ser derrotados.
+
+<Callout type="tip" title="Potenciador inicial gratuito">
+Antes de gastar Oro en tiradas, únete al grupo de Roblox **Heroplay Studios**. Esta simple acción te otorga un bono permanente de **+10% de Oro** y **+1 de Suerte** que se aplica a cada acción que realices en el juego. Es la forma más eficiente de comenzar tu progresión.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Rareza de héroes y clasificaciones">
+
+Los héroes en RNG Heroes se categorizan por sus probabilidades de obtención y su efectividad en combate. El sistema de rareza escala desde unidades comunes de 1 entre 2 hasta héroes legendarios con probabilidades de uno en millones o incluso billones. Entender qué héroes conservar y cuáles descartar es vital para mantener un ritmo de farmeo rápido.
+
+| Nombre del Héroe | Rareza / Probabilidades | Rol de Combate | Recomendación |
+|:--- |:--- |:--- |:--- |
+| **Guerrero** | 1 entre 2 | Tanque inicial | Reemplazar lo antes posible |
+| **Asesino** | Recompensa de código | DPS alto | **Equipar inmediatamente** (Rango S inicial) |
+| **Tiradas medias** | 1 entre 100+ | Equilibrado | Usar para llenar espacios vacíos |
+| **Tiradas raras** | 1 entre 10k+ | Daño de élite | Miembro principal para biomas intermedios |
+| **Tiradas míticas** | 1 entre 1M+ | Mata-jefes | Objetivo de mejoras de Suerte a largo plazo |
+
+<CardGrid cols={3}>
+  <Card title="Unidades iniciales">
+    - **Guerrero**: Alta disponibilidad
+    - Bajo daño de salida
+    - Útil solo para el tutorial
+  </Card>
+  <Card title="Héroes de código">
+    - **Asesino**: Obtención garantizada
+    - Alta velocidad de ataque
+    - Te lleva hasta la Zona 2
+  </Card>
+  <Card title="Tiradas raras">
+    - **Variado**: Alta dependencia del azar
+    - Picos de poder masivos
+    - Requiere inversión en Suerte
+  </Card>
+</CardGrid>
+
+El **Asesino** es actualmente el mejor héroe para principiantes porque evita el sistema de azar. Al usar el código **Beginnings**, obtienes una unidad que supera significativamente al Guerrero. Esto te permite farmear el primer grupo de monstruos mucho más rápido, lo que lleva a una acumulación de Oro más ágil para tu primera ronda de mejoras permanentes.
+
+<Callout type="warning" title="Gestión de espacios del equipo">
+Tienes un número limitado de espacios para héroes activos. Revisa siempre la estadística de "Poder" (Power) en tus cartas de héroe. Incluso si un héroe se ve "genial", si su número de daño es menor que el de tu equipo actual, debería quedarse en tu inventario o usarse para futuras mejoras.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="El ciclo de progresión: Farmear, Tirar, Mejorar">
+
+Para dominar la estrategia de esta **guía para principiantes de RNG Heroes**, debes entender la relación entre el Oro y la Suerte. El Oro se gana derrotando monstruos y es la moneda principal para comprar todo en el juego. La Suerte es una estadística que aumenta la probabilidad de obtener héroes de mayor rareza.
+
+<Steps>
+  <Step num="1" title="Canjea el código de lanzamiento">
+    Abre el menú de la Tienda (Shop) en el lado derecho de la interfaz. Baja hasta la sección de "Códigos" (Codes) e ingresa **Beginnings**. Esto te dará 10,000 de Oro y el héroe Asesino.
+  </Step>
+  <Step num="2" title="Equipa tu mejor equipo">
+    Ve a tu inventario de héroes y equipa al Asesino y a tu Guerrero más fuerte. Asegúrate de llenar todos los espacios disponibles para maximizar tu daño por segundo (DPS).
+  </Step>
+  <Step num="3" title="Farmea el área inicial">
+    Ataca a los monstruos del primer bioma. Quédate aquí hasta que puedas derrotarlos de 1 o 2 golpes. Recoge el Oro y la XP manualmente o mediante la recolección automática si está activada.
+  </Step>
+  <Step num="4" title="Invierte en mejoras de Suerte">
+    Cuando tengas un excedente de Oro, ve a la estación de Mejoras (Upgrade). Prioriza la **Suerte** (Luck) primero, seguida por el **Daño de Combate**. La Suerte asegura que tus futuras tiradas sean mejores.
+  </Step>
+  <Step num="5" title="Compra espacios adicionales">
+    A medida que obtengas mejores héroes, necesitarás más espacio en tu equipo activo. Gasta Oro para desbloquear espacios de héroe adicionales y aumentar el poder total de tu equipo.
+  </Step>
+  <Step num="6" title="Desbloquea el siguiente bioma">
+    Cuando tu equipo limpie el área actual sin esfuerzo, ahorra suficiente Oro para pagar la tarifa de entrada a la siguiente zona. Monstruos más fuertes significan mejores recompensas.
+  </Step>
+</Steps>
+
+| Tipo de mejora | Beneficio principal | Prioridad | Momento recomendado |
+|:--- |:--- |:--- |:--- |
+| **Suerte** | Mejores probabilidades | **Máxima** | Antes de sesiones grandes de tiradas |
+| **Daño de combate** | Muertes más rápidas | **Alta** | Cuando los monstruos tardan 5+ golpes |
+| **Espacios de equipo** | Más héroes | **Alta** | Cuando obtengas una nueva unidad Rara |
+| **Obtención de Oro** | Más ingresos | **Media** | Después de que tu Suerte sea Nivel 5+ |
+| **Tamaño del héroe** | Crecimiento visual | **Baja** | Preferencia cosmética para el juego avanzado |
+
+<Callout type="success" title="Consejo de eficiencia">
+No gastes todo tu Oro en tiradas al principio. Es mucho más efectivo gastar 5,000 de Oro en una **Mejora de Suerte** y luego tirar, en lugar de gastar 5,000 de Oro en 50 tiradas con la suerte base.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Zonas y progresión de biomas">
+
+RNG Heroes se divide en distintas zonas. Cada zona actúa como una puerta hacia mejores monstruos y mayores ganancias de XP. Sin embargo, cada nueva área también viene con una "Puerta de Oro": una cantidad específica de moneda necesaria para desbloquear el camino.
+
+<Checklist
+  id="zone-readiness"
+  title="¿Estás listo para la siguiente zona?"
+  items={[
+    "Los monstruos actuales son derrotados en menos de 3 segundos",
+    "Todos los espacios de héroe activos están llenos con unidades Raras o mejores",
+    "La mejora de Suerte está al menos en Nivel 3 para el segundo bioma",
+    "Tienes el doble del Oro requerido para la tarifa de entrada",
+    "El código Beginnings ha sido canjeado y gastado",
+    "Te has unido al grupo Heroplay Studios para obtener el bono"
+  ]}
+/>
+
+La transición del Área de Tutorial al primer Bioma Desbloqueable es el salto más crítico. Los monstruos allí tienen significativamente más vida. Si te mueves demasiado pronto, tu velocidad de farmeo caerá, haciendo más difícil ganar Oro. Si te encuentras con dificultades, regresa al área anterior y farmea durante 10 minutos para comprar una mejora de **Daño de Combate**.
+
+<Callout type="info" title="Adelanto del Dragón">
+Los desarrolladores han adelantado un encuentro con un "Dragón" en la descripción oficial del juego. Es probable que sea un jefe de final de juego o un evento especial. Sigue progresando a través de los biomas para asegurar que tu equipo sea lo suficientemente fuerte cuando este contenido se lance oficialmente.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Consejos avanzados para un crecimiento rápido">
+
+Una vez que domines lo básico, puedes optimizar tu juego para alcanzar el "Área Final Disponible" más rápido que el jugador promedio. La clave es equilibrar tu tiempo de juego activo con una gestión inteligente de recursos.
+
+- **Estrategia de Auto-tirada**: Configura tus filtros de auto-tirada para eliminar automáticamente héroes "Comunes" como el Guerrero una vez que tu equipo esté lleno. Esto evita que tu inventario se sature.
+- **Farmeo AFK**: Si el juego lo permite, busca un lugar donde los monstruos reaparezcan rápido y deja a tu equipo farmeando. Asegúrate de haber mejorado tu estadística de **Obtención de Oro** para que este tiempo sea más valioso.
+- **Acumulación de Suerte**: Combina el Bono de Grupo (+1 de Suerte) con mejoras permanentes de Suerte. A medida que progreses, busca eventos de tiempo limitado o nuevos códigos que puedan ofrecer pociones de Suerte temporales.
+- **Escalado**: A medida que tus ingresos de Oro aumenten, el costo de las mejoras también subirá. Calcula siempre el "Retorno de Inversión". Si una mejora de Suerte cuesta 50,000 de Oro pero desbloquear un área cuesta 40,000, desbloquear el área suele ser mejor, ya que da acceso a monstruos que pagan más.
+
+| Característica | Requisito | Recompensa |
+|:--- |:--- |:--- |
+| **Tutorial** | Nuevo jugador | Mecánicas básicas y Guerrero |
+| **Código Beginnings** | Acceso a la Tienda | 10k Oro y Asesino |
+| **Unirse al Grupo** | Perfil de Roblox | +10% Oro y +1 Suerte |
+| **Puerta Zona 2** | Pago de Oro | Más XP y nuevos monstruos |
+
+<Callout type="tip" title="Estrategia Pro">
+Enfócate en los **Espacios de Equipo** (Equip Slots) por encima de casi cualquier otra cosa al principio. Tener tres héroes de 1 entre 10 suele ser mejor que tener un solo héroe de 1 entre 100 al inicio, porque el daño total de salida es más consistente.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Preguntas frecuentes de RNG Heroes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo canjeo códigos en RNG Heroes?",
+    answer: "Primero completa el tutorial. Luego, haz clic en el botón de la Tienda (Shop) en el lado derecho de la pantalla, desplázate hacia abajo hasta la sección de Códigos, ingresa el código (como 'Beginnings') y presiona Canjear (Redeem)."
+  },
+  {
+    question: "¿Cuál es la mejor manera de conseguir héroes raros?",
+    answer: "La mejor manera es maximizar tu estadística de Suerte (Luck). Únete al grupo oficial de Roblox para obtener un bono de +1 de Suerte y gasta tu Oro en mejoras de Suerte en el menú de mejoras antes de realizar grandes sesiones de tiradas."
+  },
+  {
+    question: "¿Por qué no gano Oro lo suficientemente rápido?",
+    answer: "Podrías estar luchando contra monstruos demasiado fuertes para tu equipo actual. Si una batalla toma demasiado tiempo, regresa a una zona más fácil donde puedas matar enemigos rápidamente. Además, asegúrate de tener activo el bono de grupo del +10% de Oro."
+  },
+  {
+    question: "¿En qué debería gastar mis primeros 10,000 de Oro?",
+    answer: "Según esta guía para principiantes de RNG Heroes, deberías gastarlos en una mezcla de mejoras de Suerte y en abrir al menos un espacio adicional de equipo para héroes para aumentar el daño total de tu equipo."
+  }
+]} />
+
+</Section>

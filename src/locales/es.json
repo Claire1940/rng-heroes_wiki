@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guía",
+    "heroes": "Héroes",
+    "farming": "Farmeo",
+    "upgrades": "Mejoras",
+    "zones": "Zonas",
+    "updates": "Actualizaciones"
+  }
+}

@@ -10,7 +10,15 @@
       "twitterDescription": "RNG Heroes Wiki covers codes, hero rarities, roll odds, upgrades, zones, and beginner tips for Roblox players."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "heroes": "Heroes",
+    "farming": "Farming",
+    "upgrades": "Upgrades",
+    "zones": "Zones",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -655,5 +663,146 @@
     "copyright": "© 2026 RNG Heroes Wiki. Not affiliated with the developers of RNG Heroes.",
     "disclaimer": "Unofficial fan-made resource website."
   },
-  "pages": {}
+  "pages": {
+    "codes": {
+      "title": "RNG Heroes Codes",
+      "description": "Active RNG Heroes codes for free Gold and hero rewards, with step-by-step redemption steps and the latest verified working codes.",
+      "metaTitle": "RNG Heroes Codes - Free Gold & Hero Rewards",
+      "metaDescription": "Redeem active RNG Heroes codes for free Gold and heroes. Updated list of working codes with exact redemption steps and rewards.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are RNG Heroes Codes?",
+      "whatIsDescription": "Codes are official redemption strings released by Heroplay Studios that grant free in-game rewards such as Gold and heroes. Enter each code in the Shop Codes section to claim its reward once per Roblox account.",
+      "why": "Why use RNG Heroes Codes?",
+      "whySteps": {
+        "step1Title": "Free Early Gold",
+        "step1Description": "Codes like Beginnings grant 10,000 Gold to fund your first Luck and equip-slot upgrades without extra farming.",
+        "step2Title": "Free Starter Hero",
+        "step2Description": "The Beginnings code awards an Assassin hero that outclasses the basic Warrior roll and speeds up early combat.",
+        "step3Title": "Faster Progression",
+        "step3Description": "Claiming every active code removes hours of early grinding so you can reach new biomes and zones sooner."
+      },
+      "featured": "Featured Codes",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "RNG Heroes Guide",
+      "description": "Complete RNG Heroes guides covering how to play, beginner progression, tutorials, and tips to roll heroes, farm Gold, and unlock zones.",
+      "metaTitle": "RNG Heroes Guide - How to Play, Beginner Tips & Tutorials",
+      "metaDescription": "Learn how to play RNG Heroes with beginner guides, tutorials, and tips for rolling heroes, farming Gold, and unlocking new zones.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What is the RNG Heroes Guide?",
+      "whatIsDescription": "Guides walk you through the core gameplay loop: rolling heroes, equipping a team, defeating monsters for Gold and XP, buying upgrades, and unlocking new biomes and zones.",
+      "why": "Why read the RNG Heroes Guide?",
+      "whySteps": {
+        "step1Title": "Learn the Core Loop",
+        "step1Description": "Understand how rolling, combat, and upgrades connect so every action pushes your progression forward.",
+        "step2Title": "Avoid Common Mistakes",
+        "step2Description": "Follow proven beginner steps to avoid wasting Gold on the wrong upgrades or rushing into harder zones.",
+        "step3Title": "Progress Faster",
+        "step3Description": "Apply tips and tricks that shorten the path from your first Warrior roll to the rarest heroes in the game."
+      },
+      "featured": "Featured Guides",
+      "all": "All Guides"
+    },
+    "heroes": {
+      "title": "RNG Heroes Heroes",
+      "description": "Every RNG Heroes hero ranked by rarity and power, including the full hero list, tier list, roll chances, and how to get better heroes.",
+      "metaTitle": "RNG Heroes Heroes - Tier List, Hero List & Rarities",
+      "metaDescription": "Browse the full RNG Heroes hero list, tier list, rarities, and roll chances, and learn how to get better and rarer heroes.",
+      "categoryLabel": "HEROES",
+      "whatIs": "What are RNG Heroes Heroes?",
+      "whatIsDescription": "Heroes are the characters you roll, equip, and send into battle against monsters. Each hero has a rarity that reflects how hard it is to roll and how much combat power it adds to your active team.",
+      "why": "Why study RNG Heroes Heroes?",
+      "whySteps": {
+        "step1Title": "Build the Best Team",
+        "step1Description": "Use the tier list to equip heroes that deliver the highest damage and clear monsters fastest.",
+        "step2Title": "Know the Rarities",
+        "step2Description": "Understand hero rarities and roll chances so you can tell which rolls are worth keeping and which to replace.",
+        "step3Title": "Roll Rarer Heroes",
+        "step3Description": "Learn how Luck and rolling strategy improve your odds of obtaining the rarest, most powerful heroes."
+      },
+      "featured": "Featured Heroes",
+      "all": "All Heroes"
+    },
+    "farming": {
+      "title": "RNG Heroes Farming",
+      "description": "The fastest RNG Heroes farming methods for Gold and XP, including best farming routes, fast leveling, and efficient upgrade spending.",
+      "metaTitle": "RNG Heroes Farming - Gold, XP & Fast Leveling Methods",
+      "metaDescription": "Find the best RNG Heroes farming methods for Gold and XP, fast leveling routes, and how to reinvest earnings into upgrades and zones.",
+      "categoryLabel": "FARMING",
+      "whatIs": "What is RNG Heroes Farming?",
+      "whatIsDescription": "Farming is the repeatable process of defeating monsters to earn Gold and XP, then reinvesting those rewards into upgrades, hero slots, and new zones.",
+      "why": "Why optimize RNG Heroes Farming?",
+      "whySteps": {
+        "step1Title": "Earn Gold Faster",
+        "step1Description": "Use the best farming method to maximize Gold income from every monster battle.",
+        "step2Title": "Level Up Quickly",
+        "step2Description": "Follow fast leveling routes that keep your team strength and zone progression moving together.",
+        "step3Title": "Reinvest Smartly",
+        "step3Description": "Turn farmed Gold into Luck, equip slots, and area unlocks that multiply your future earnings."
+      },
+      "featured": "Featured Farming Guides",
+      "all": "All Farming Guides"
+    },
+    "upgrades": {
+      "title": "RNG Heroes Upgrades",
+      "description": "Every RNG Heroes upgrade ranked by value, including Luck upgrades, equip slots, and hero size, with the best upgrade order to follow.",
+      "metaTitle": "RNG Heroes Upgrades - Luck, Equip Slots & Best Upgrades",
+      "metaDescription": "Discover the best RNG Heroes upgrades, including Luck, equip slots, and hero size, and the recommended order to spend your Gold.",
+      "categoryLabel": "UPGRADES",
+      "whatIs": "What are RNG Heroes Upgrades?",
+      "whatIsDescription": "Upgrades are permanent improvements bought with Gold that boost Luck, combat damage, Gold and XP drops, equip slots, and hero size.",
+      "why": "Why choose upgrades carefully?",
+      "whySteps": {
+        "step1Title": "Spend Gold Efficiently",
+        "step1Description": "Follow the best upgrade order so every Gold investment measurably speeds up your progression.",
+        "step2Title": "Roll Rarer Heroes",
+        "step2Description": "Luck upgrades improve your chances of rolling the rarest, most powerful heroes in the game.",
+        "step3Title": "Expand Your Team",
+        "step3Description": "Equip-slot upgrades let more strong heroes fight at once, raising your overall combat power."
+      },
+      "featured": "Featured Upgrades",
+      "all": "All Upgrades"
+    },
+    "zones": {
+      "title": "RNG Heroes Zones",
+      "description": "The full RNG Heroes zone and biome progression route, including unlock order, costs, area requirements, and what each biome offers.",
+      "metaTitle": "RNG Heroes Zones - Biomes, Area Unlocks & Requirements",
+      "metaDescription": "Explore every RNG Heroes zone and biome, including the unlock order, Gold costs, area requirements, and enemies in each region.",
+      "categoryLabel": "ZONES",
+      "whatIs": "What are RNG Heroes Zones?",
+      "whatIsDescription": "Zones and biomes are the areas you unlock with Gold as you progress. Each new area introduces stronger monsters, better rewards, and the next step of the progression route.",
+      "why": "Why learn the zone route?",
+      "whySteps": {
+        "step1Title": "Unlock in Order",
+        "step1Description": "Follow the correct biome unlock order to avoid stalling on enemies you cannot defeat yet.",
+        "step2Title": "Plan the Costs",
+        "step2Description": "Know each area Gold requirement in advance so you always have funds ready to advance.",
+        "step3Title": "Choose When to Push",
+        "step3Description": "Decide whether to advance or keep farming based on how fast your team clears each zone."
+      },
+      "featured": "Featured Zones",
+      "all": "All Zones"
+    },
+    "updates": {
+      "title": "RNG Heroes Updates",
+      "description": "The latest RNG Heroes updates, patch notes, and update log, covering new heroes, zones, balance changes, bug fixes, and secret updates.",
+      "metaTitle": "RNG Heroes Updates - Latest Update, Patch Notes & Update Log",
+      "metaDescription": "Track the latest RNG Heroes updates, patch notes, and update log, including new heroes, zones, balance changes, and bug fixes.",
+      "categoryLabel": "UPDATES",
+      "whatIs": "What are RNG Heroes Updates?",
+      "whatIsDescription": "Updates track every change Heroplay Studios ships to RNG Heroes, including new heroes and zones, balance adjustments, bug fixes, and secret content additions.",
+      "why": "Why follow RNG Heroes Updates?",
+      "whySteps": {
+        "step1Title": "Catch New Content",
+        "step1Description": "Stay current on newly added heroes, biomes, zones, and features as soon as they release.",
+        "step2Title": "Adjust Your Strategy",
+        "step2Description": "Read patch notes to see how balance changes affect your team, upgrades, and farming routes.",
+        "step3Title": "Find Secret Updates",
+        "step3Description": "Discover hidden content and event additions that the update log reveals over time."
+      },
+      "featured": "Featured Updates",
+      "all": "All Updates"
+    }
+  }
 }

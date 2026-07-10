@@ -1,1 +1,398 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "rng-heroes-codes",
+        "file": "rng-heroes-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "rng-heroes-best-farming-method",
+        "file": "rng-heroes-best-farming-method"
+      },
+      {
+        "slug": "rng-heroes-fast-leveling",
+        "file": "rng-heroes-fast-leveling"
+      },
+      {
+        "slug": "rng-heroes-gold-farming",
+        "file": "rng-heroes-gold-farming"
+      },
+      {
+        "slug": "rng-heroes-xp-farming",
+        "file": "rng-heroes-xp-farming"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "rng-heroes-beginner-guide",
+        "file": "rng-heroes-beginner-guide"
+      },
+      {
+        "slug": "rng-heroes-how-to-play",
+        "file": "rng-heroes-how-to-play"
+      },
+      {
+        "slug": "rng-heroes-noob-to-pro",
+        "file": "rng-heroes-noob-to-pro"
+      },
+      {
+        "slug": "rng-heroes-tips-and-tricks",
+        "file": "rng-heroes-tips-and-tricks"
+      },
+      {
+        "slug": "rng-heroes-tutorial",
+        "file": "rng-heroes-tutorial"
+      }
+    ],
+    "heroes": [
+      {
+        "slug": "rng-heroes-best-heroes",
+        "file": "rng-heroes-best-heroes"
+      },
+      {
+        "slug": "rng-heroes-hero-chances",
+        "file": "rng-heroes-hero-chances"
+      },
+      {
+        "slug": "rng-heroes-hero-list",
+        "file": "rng-heroes-hero-list"
+      },
+      {
+        "slug": "rng-heroes-hero-rarities",
+        "file": "rng-heroes-hero-rarities"
+      },
+      {
+        "slug": "rng-heroes-how-to-get-better-heroes",
+        "file": "rng-heroes-how-to-get-better-heroes"
+      },
+      {
+        "slug": "rng-heroes-rarest-hero",
+        "file": "rng-heroes-rarest-hero"
+      },
+      {
+        "slug": "rng-heroes-tier-list",
+        "file": "rng-heroes-tier-list"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "rng-heroes-latest-update",
+        "file": "rng-heroes-latest-update"
+      },
+      {
+        "slug": "rng-heroes-patch-notes",
+        "file": "rng-heroes-patch-notes"
+      },
+      {
+        "slug": "rng-heroes-secret-update",
+        "file": "rng-heroes-secret-update"
+      },
+      {
+        "slug": "rng-heroes-update-log",
+        "file": "rng-heroes-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "rng-heroes-best-upgrades",
+        "file": "rng-heroes-best-upgrades"
+      },
+      {
+        "slug": "rng-heroes-equip-slots",
+        "file": "rng-heroes-equip-slots"
+      },
+      {
+        "slug": "rng-heroes-hero-size",
+        "file": "rng-heroes-hero-size"
+      },
+      {
+        "slug": "rng-heroes-luck-upgrades",
+        "file": "rng-heroes-luck-upgrades"
+      }
+    ],
+    "zones": [
+      {
+        "slug": "rng-heroes-area-unlocks",
+        "file": "rng-heroes-area-unlocks"
+      },
+      {
+        "slug": "rng-heroes-biomes",
+        "file": "rng-heroes-biomes"
+      },
+      {
+        "slug": "rng-heroes-zone-requirements",
+        "file": "rng-heroes-zone-requirements"
+      },
+      {
+        "slug": "rng-heroes-zones",
+        "file": "rng-heroes-zones"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "rng-heroes-codes",
+        "file": "rng-heroes-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "rng-heroes-best-farming-method",
+        "file": "rng-heroes-best-farming-method"
+      },
+      {
+        "slug": "rng-heroes-fast-leveling",
+        "file": "rng-heroes-fast-leveling"
+      },
+      {
+        "slug": "rng-heroes-gold-farming",
+        "file": "rng-heroes-gold-farming"
+      },
+      {
+        "slug": "rng-heroes-xp-farming",
+        "file": "rng-heroes-xp-farming"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "rng-heroes-beginner-guide",
+        "file": "rng-heroes-beginner-guide"
+      },
+      {
+        "slug": "rng-heroes-how-to-play",
+        "file": "rng-heroes-how-to-play"
+      },
+      {
+        "slug": "rng-heroes-noob-to-pro",
+        "file": "rng-heroes-noob-to-pro"
+      },
+      {
+        "slug": "rng-heroes-tips-and-tricks",
+        "file": "rng-heroes-tips-and-tricks"
+      },
+      {
+        "slug": "rng-heroes-tutorial",
+        "file": "rng-heroes-tutorial"
+      }
+    ],
+    "heroes": [
+      {
+        "slug": "rng-heroes-best-heroes",
+        "file": "rng-heroes-best-heroes"
+      },
+      {
+        "slug": "rng-heroes-hero-chances",
+        "file": "rng-heroes-hero-chances"
+      },
+      {
+        "slug": "rng-heroes-hero-list",
+        "file": "rng-heroes-hero-list"
+      },
+      {
+        "slug": "rng-heroes-hero-rarities",
+        "file": "rng-heroes-hero-rarities"
+      },
+      {
+        "slug": "rng-heroes-how-to-get-better-heroes",
+        "file": "rng-heroes-how-to-get-better-heroes"
+      },
+      {
+        "slug": "rng-heroes-rarest-hero",
+        "file": "rng-heroes-rarest-hero"
+      },
+      {
+        "slug": "rng-heroes-tier-list",
+        "file": "rng-heroes-tier-list"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "rng-heroes-latest-update",
+        "file": "rng-heroes-latest-update"
+      },
+      {
+        "slug": "rng-heroes-patch-notes",
+        "file": "rng-heroes-patch-notes"
+      },
+      {
+        "slug": "rng-heroes-secret-update",
+        "file": "rng-heroes-secret-update"
+      },
+      {
+        "slug": "rng-heroes-update-log",
+        "file": "rng-heroes-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "rng-heroes-best-upgrades",
+        "file": "rng-heroes-best-upgrades"
+      },
+      {
+        "slug": "rng-heroes-equip-slots",
+        "file": "rng-heroes-equip-slots"
+      },
+      {
+        "slug": "rng-heroes-hero-size",
+        "file": "rng-heroes-hero-size"
+      },
+      {
+        "slug": "rng-heroes-luck-upgrades",
+        "file": "rng-heroes-luck-upgrades"
+      }
+    ],
+    "zones": [
+      {
+        "slug": "rng-heroes-area-unlocks",
+        "file": "rng-heroes-area-unlocks"
+      },
+      {
+        "slug": "rng-heroes-biomes",
+        "file": "rng-heroes-biomes"
+      },
+      {
+        "slug": "rng-heroes-zone-requirements",
+        "file": "rng-heroes-zone-requirements"
+      },
+      {
+        "slug": "rng-heroes-zones",
+        "file": "rng-heroes-zones"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "rng-heroes-codes",
+        "file": "rng-heroes-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "rng-heroes-best-farming-method",
+        "file": "rng-heroes-best-farming-method"
+      },
+      {
+        "slug": "rng-heroes-fast-leveling",
+        "file": "rng-heroes-fast-leveling"
+      },
+      {
+        "slug": "rng-heroes-gold-farming",
+        "file": "rng-heroes-gold-farming"
+      },
+      {
+        "slug": "rng-heroes-xp-farming",
+        "file": "rng-heroes-xp-farming"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "rng-heroes-beginner-guide",
+        "file": "rng-heroes-beginner-guide"
+      },
+      {
+        "slug": "rng-heroes-how-to-play",
+        "file": "rng-heroes-how-to-play"
+      },
+      {
+        "slug": "rng-heroes-noob-to-pro",
+        "file": "rng-heroes-noob-to-pro"
+      },
+      {
+        "slug": "rng-heroes-tips-and-tricks",
+        "file": "rng-heroes-tips-and-tricks"
+      },
+      {
+        "slug": "rng-heroes-tutorial",
+        "file": "rng-heroes-tutorial"
+      }
+    ],
+    "heroes": [
+      {
+        "slug": "rng-heroes-best-heroes",
+        "file": "rng-heroes-best-heroes"
+      },
+      {
+        "slug": "rng-heroes-hero-chances",
+        "file": "rng-heroes-hero-chances"
+      },
+      {
+        "slug": "rng-heroes-hero-list",
+        "file": "rng-heroes-hero-list"
+      },
+      {
+        "slug": "rng-heroes-hero-rarities",
+        "file": "rng-heroes-hero-rarities"
+      },
+      {
+        "slug": "rng-heroes-how-to-get-better-heroes",
+        "file": "rng-heroes-how-to-get-better-heroes"
+      },
+      {
+        "slug": "rng-heroes-rarest-hero",
+        "file": "rng-heroes-rarest-hero"
+      },
+      {
+        "slug": "rng-heroes-tier-list",
+        "file": "rng-heroes-tier-list"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "rng-heroes-latest-update",
+        "file": "rng-heroes-latest-update"
+      },
+      {
+        "slug": "rng-heroes-patch-notes",
+        "file": "rng-heroes-patch-notes"
+      },
+      {
+        "slug": "rng-heroes-secret-update",
+        "file": "rng-heroes-secret-update"
+      },
+      {
+        "slug": "rng-heroes-update-log",
+        "file": "rng-heroes-update-log"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "rng-heroes-best-upgrades",
+        "file": "rng-heroes-best-upgrades"
+      },
+      {
+        "slug": "rng-heroes-equip-slots",
+        "file": "rng-heroes-equip-slots"
+      },
+      {
+        "slug": "rng-heroes-hero-size",
+        "file": "rng-heroes-hero-size"
+      },
+      {
+        "slug": "rng-heroes-luck-upgrades",
+        "file": "rng-heroes-luck-upgrades"
+      }
+    ],
+    "zones": [
+      {
+        "slug": "rng-heroes-area-unlocks",
+        "file": "rng-heroes-area-unlocks"
+      },
+      {
+        "slug": "rng-heroes-biomes",
+        "file": "rng-heroes-biomes"
+      },
+      {
+        "slug": "rng-heroes-zone-requirements",
+        "file": "rng-heroes-zone-requirements"
+      },
+      {
+        "slug": "rng-heroes-zones",
+        "file": "rng-heroes-zones"
+      }
+    ]
+  }
+}
